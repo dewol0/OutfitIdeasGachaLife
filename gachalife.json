@@ -1,0 +1,7019 @@
+{
+  "Ads": [
+    {
+      "status_app": "0",
+      "link_redirect": "https://",
+      "admob_interid": "ca-app-pub-3940256099942544/1033173712",
+	  "admob_banner": "ca-app-pub-3940256099942544/2247696110",
+      "admob_openid": "ca-app-pub-3940256099942544/3419835294",
+      "admob_rewardid": "ca-app-pub-3940256099942544/522435491x", 
+      "interval": 1,
+      "coin_reward": 0
+    }
+  ],
+  "More":
+  [
+	{
+      "title":"dewol",
+      "image":"https://play-lh.googleusercontent.com/eaYAxU40wSmnDK6olUEVJqBXjUc-cm8dlJm643FI4-KBZkb4Nv8eJD4oUHEycEDufBc=w512-h512-n-rw",
+      "link":"https://play.google.com/store/apps/dev?id=6318103379264330394"
+    }
+  ],
+"Categories": [
+    {
+      "name_category": "adn",
+      "image": "#"
+    }
+  ],
+  "Data":
+  [
+    {
+      "id":1,
+      "name_category": "dewol",
+      "title":"1",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/1.webp",
+      "coin":1000
+    },
+    {
+      "id": 2,
+      "name_category": "dewol",
+      "title": "2",
+      "image": "https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/2.webp",
+      "coin":1000
+    },
+    {
+      "id":3,
+      "name_category": "dewol",
+      "title":"3",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/3.webp",
+      "coin":1000
+    },
+    {
+      "id":4,
+      "name_category": "dewol",
+      "title":"4",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/4.webp",
+      "coin":1000
+    },
+    {
+      "id":5,
+      "name_category": "dewol",
+      "title":"5",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/5.webp",
+      "coin":1000
+    },
+    {
+      "id":6,
+      "name_category": "dewol",
+      "title":"6",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/6.webp",
+      "coin":1000
+    },
+    {
+      "id":7,
+      "name_category": "dewol",
+      "title":"7",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/7.webp",
+      "coin":1000
+    },
+    {
+      "id":8,
+      "name_category": "dewol",
+      "title":"8",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/8.webp",
+      "coin":1000
+    },
+    {
+      "id":9,
+      "name_category": "dewol",
+      "title":"9",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/9.webp",
+      "coin":1000
+    },
+    {
+      "id":10,
+      "name_category": "dewol",
+      "title":"10",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/10.webp",
+      "coin":1000
+    },
+    {
+      "id": 11,
+      "name_category": "dewol",
+      "title": "11",
+      "image": "https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/11.webp",
+      "coin":1000
+    },
+    {
+      "id":12,
+      "name_category": "dewol",
+      "title":"12",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/12.webp",
+      "coin":1000
+    },
+    {
+      "id":13,
+      "name_category": "dewol",
+      "title":"13",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/13.webp",
+      "coin":1000
+    },
+    {
+      "id":14,
+      "name_category": "dewol",
+      "title":"14",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/14.webp",
+      "coin":1000
+    },
+    {
+      "id":15,
+      "name_category": "dewol",
+      "title":"15",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/15.webp",
+      "coin":1000
+    },
+    {
+      "id":16,
+      "name_category": "dewol",
+      "title":"16",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/16.webp",
+      "coin":1000
+    },
+    {
+      "id":17,
+      "name_category": "dewol",
+      "title":"17",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/17.webp",
+      "coin":1000
+    },
+    {
+      "id":18,
+      "name_category": "dewol",
+      "title":"18",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/18.webp",
+      "coin":1000
+    },
+    {
+      "id":19,
+      "name_category": "dewol",
+      "title":"19",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/19.webp",
+      "coin":1000
+    },
+    {
+      "id":20,
+      "name_category": "dewol",
+      "title":"20",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/20.webp",
+      "coin":1000
+    },
+    {
+      "id": 21,
+      "name_category": "dewol",
+      "title": "21",
+      "image": "https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/21.webp",
+      "coin":1000
+    },
+    {
+      "id":22,
+      "name_category": "dewol",
+      "title":"22",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/22.webp",
+      "coin":1000
+    },
+    {
+      "id":23,
+      "name_category": "dewol",
+      "title":"23",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/23.webp",
+      "coin":1000
+    },
+    {
+      "id":24,
+      "name_category": "dewol",
+      "title":"24",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/24.webp",
+      "coin":1000
+    },
+    {
+      "id":25,
+      "name_category": "dewol",
+      "title":"25",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/25.webp",
+      "coin":1000
+    },
+    {
+      "id":26,
+      "name_category": "dewol",
+      "title":"26",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/26.webp",
+      "coin":1000
+    },
+    {
+      "id":27,
+      "name_category": "dewol",
+      "title":"27",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/27.webp",
+      "coin":1000
+    },
+    {
+      "id":28,
+      "name_category": "dewol",
+      "title":"28",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/28.webp",
+      "coin":1000
+    },
+    {
+      "id":29,
+      "name_category": "dewol",
+      "title":"29",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/29.webp",
+      "coin":1000
+    },
+    {
+      "id":30,
+      "name_category": "dewol",
+      "title":"30",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/30.webp",
+      "coin":1000
+    },
+    {
+      "id": 31,
+      "name_category": "dewol",
+      "title": "31",
+      "image": "https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/31.webp",
+      "coin":1000
+    },
+    {
+      "id":32,
+      "name_category": "dewol",
+      "title":"32",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/32.webp",
+      "coin":1000
+    },
+    {
+      "id":33,
+      "name_category": "dewol",
+      "title":"33",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/33.webp",
+      "coin":1000
+    },
+    {
+      "id":34,
+      "name_category": "dewol",
+      "title":"34",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/34.webp",
+      "coin":1000
+    },
+    {
+      "id":35,
+      "name_category": "dewol",
+      "title":"35",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/35.webp",
+      "coin":1000
+    },
+    {
+      "id":36,
+      "name_category": "dewol",
+      "title":"36",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/36.webp",
+      "coin":1000
+    },
+    {
+      "id":37,
+      "name_category": "dewol",
+      "title":"37",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/37.webp",
+      "coin":1000
+    },
+    {
+      "id":38,
+      "name_category": "dewol",
+      "title":"38",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/38.webp",
+      "coin":1000
+    },
+    {
+      "id":39,
+      "name_category": "dewol",
+      "title":"39",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/39.webp",
+      "coin":1000
+    },
+    {
+      "id":40,
+      "name_category": "dewol",
+      "title":"40",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/40.webp",
+      "coin":1000
+    },
+    {
+      "id": 41,
+      "name_category": "dewol",
+      "title": "41",
+      "image": "https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/41.webp",
+      "coin":1000
+    },
+    {
+      "id":42,
+      "name_category": "dewol",
+      "title":"42",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/42.webp",
+      "coin":1000
+    },
+    {
+      "id":43,
+      "name_category": "dewol",
+      "title":"43",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/43.webp",
+      "coin":1000
+    },
+    {
+      "id":44,
+      "name_category": "dewol",
+      "title":"44",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/44.webp",
+      "coin":1000
+    },
+    {
+      "id":45,
+      "name_category": "dewol",
+      "title":"45",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/45.webp",
+      "coin":1000
+    },
+    {
+      "id":46,
+      "name_category": "dewol",
+      "title":"46",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/46.webp",
+      "coin":1000
+    },
+    {
+      "id":47,
+      "name_category": "dewol",
+      "title":"47",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/47.webp",
+      "coin":1000
+    },
+    {
+      "id":48,
+      "name_category": "dewol",
+      "title":"48",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/48.webp",
+      "coin":1000
+    },
+    {
+      "id":49,
+      "name_category": "dewol",
+      "title":"49",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/49.webp",
+      "coin":1000
+    },
+    {
+      "id":50,
+      "name_category": "dewol",
+      "title":"50",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/50.webp",
+      "coin":1000
+    },
+    {
+      "id": 51,
+      "name_category": "dewol",
+      "title": "51",
+      "image": "https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/51.webp",
+      "coin":1000
+    },
+    {
+      "id":52,
+      "name_category": "dewol",
+      "title":"52",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/52.webp",
+      "coin":1000
+    },
+    {
+      "id":53,
+      "name_category": "dewol",
+      "title":"53",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/53.webp",
+      "coin":1000
+    },
+    {
+      "id":54,
+      "name_category": "dewol",
+      "title":"54",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/54.webp",
+      "coin":1000
+    },
+    {
+      "id":55,
+      "name_category": "dewol",
+      "title":"55",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/55.webp",
+      "coin":1000
+    },
+    {
+      "id":56,
+      "name_category": "dewol",
+      "title":"56",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/56.webp",
+      "coin":1000
+    },
+    {
+      "id":57,
+      "name_category": "dewol",
+      "title":"57",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/57.webp",
+      "coin":1000
+    },
+    {
+      "id":58,
+      "name_category": "dewol",
+      "title":"58",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/58.webp",
+      "coin":1000
+    },
+    {
+      "id":59,
+      "name_category": "dewol",
+      "title":"59",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/59.webp",
+      "coin":1000
+    },
+    {
+      "id":60,
+      "name_category": "dewol",
+      "title":"60",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/60.webp",
+      "coin":1000
+    },
+    {
+      "id": 61,
+      "name_category": "dewol",
+      "title": "61",
+      "image": "https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/61.webp",
+      "coin":1000
+    },
+    {
+      "id":62,
+      "name_category": "dewol",
+      "title":"62",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/62.webp",
+      "coin":1000
+    },
+    {
+      "id":63,
+      "name_category": "dewol",
+      "title":"63",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/63.webp",
+      "coin":1000
+    },
+    {
+      "id":64,
+      "name_category": "dewol",
+      "title":"64",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/64.webp",
+      "coin":1000
+    },
+    {
+      "id":65,
+      "name_category": "dewol",
+      "title":"65",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/65.webp",
+      "coin":1000
+    },
+    {
+      "id":66,
+      "name_category": "dewol",
+      "title":"66",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/66.webp",
+      "coin":1000
+    },
+    {
+      "id":67,
+      "name_category": "dewol",
+      "title":"67",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/67.webp",
+      "coin":1000
+    },
+    {
+      "id":68,
+      "name_category": "dewol",
+      "title":"68",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/68.webp",
+      "coin":1000
+    },
+    {
+      "id":69,
+      "name_category": "dewol",
+      "title":"69",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/69.webp",
+      "coin":1000
+    },
+    {
+      "id":70,
+      "name_category": "dewol",
+      "title":"70",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/70.webp",
+      "coin":1000
+    },
+    {
+      "id": 71,
+      "name_category": "dewol",
+      "title": "71",
+      "image": "https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/71.webp",
+      "coin":1000
+    },
+    {
+      "id":72,
+      "name_category": "dewol",
+      "title":"72",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/72.webp",
+      "coin":1000
+    },
+    {
+      "id":73,
+      "name_category": "dewol",
+      "title":"73",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/73.webp",
+      "coin":1000
+    },
+    {
+      "id":74,
+      "name_category": "dewol",
+      "title":"74",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/74.webp",
+      "coin":1000
+    },
+    {
+      "id":75,
+      "name_category": "dewol",
+      "title":"75",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/75.webp",
+      "coin":1000
+    },
+    {
+      "id":76,
+      "name_category": "dewol",
+      "title":"76",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/76.webp",
+      "coin":1000
+    },
+    {
+      "id":77,
+      "name_category": "dewol",
+      "title":"77",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/77.webp",
+      "coin":1000
+    },
+    {
+      "id":78,
+      "name_category": "dewol",
+      "title":"78",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/78.webp",
+      "coin":1000
+    },
+    {
+      "id":79,
+      "name_category": "dewol",
+      "title":"79",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/79.webp",
+      "coin":1000
+    },
+    {
+      "id":80,
+      "name_category": "dewol",
+      "title":"80",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/80.webp",
+      "coin":1000
+    },
+    {
+      "id": 81,
+      "name_category": "dewol",
+      "title": "81",
+      "image": "https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/81.webp",
+      "coin":1000
+    },
+    {
+      "id":82,
+      "name_category": "dewol",
+      "title":"82",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/82.webp",
+      "coin":1000
+    },
+    {
+      "id":83,
+      "name_category": "dewol",
+      "title":"83",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/83.webp",
+      "coin":1000
+    },
+    {
+      "id":84,
+      "name_category": "dewol",
+      "title":"84",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/84.webp",
+      "coin":1000
+    },
+    {
+      "id":85,
+      "name_category": "dewol",
+      "title":"85",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/85.webp",
+      "coin":1000
+    },
+    {
+      "id":86,
+      "name_category": "dewol",
+      "title":"86",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/86.webp",
+      "coin":1000
+    },
+    {
+      "id":87,
+      "name_category": "dewol",
+      "title":"87",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/87.webp",
+      "coin":1000
+    },
+    {
+      "id":88,
+      "name_category": "dewol",
+      "title":"88",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/88.webp",
+      "coin":1000
+    },
+    {
+      "id":89,
+      "name_category": "dewol",
+      "title":"89",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/89.webp",
+      "coin":1000
+    },
+    {
+      "id":90,
+      "name_category": "dewol",
+      "title":"90",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/90.webp",
+      "coin":1000
+    },
+    {
+      "id": 91,
+      "name_category": "dewol",
+      "title": "91",
+      "image": "https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/91.webp",
+      "coin":1000
+    },
+    {
+      "id":92,
+      "name_category": "dewol",
+      "title":"92",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/92.webp",
+      "coin":1000
+    },
+    {
+      "id":93,
+      "name_category": "dewol",
+      "title":"93",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/93.webp",
+      "coin":1000
+    },
+    {
+      "id":94,
+      "name_category": "dewol",
+      "title":"94",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/94.webp",
+      "coin":1000
+    },
+    {
+      "id":95,
+      "name_category": "dewol",
+      "title":"95",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/95.webp",
+      "coin":1000
+    },
+    {
+      "id":96,
+      "name_category": "dewol",
+      "title":"96",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/96.webp",
+      "coin":1000
+    },
+    {
+      "id":97,
+      "name_category": "dewol",
+      "title":"97",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/97.webp",
+      "coin":1000
+    },
+    {
+      "id":98,
+      "name_category": "dewol",
+      "title":"98",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/98.webp",
+      "coin":1000
+    },
+    {
+      "id":99,
+      "name_category": "dewol",
+      "title":"99",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/99.webp",
+      "coin":1000
+    },
+    {
+      "id":100,
+      "name_category": "dewol",
+      "title":"100",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/100.webp",
+      "coin":1000
+    },
+    {
+      "id": 101,
+      "name_category": "dewol",
+      "title": "101",
+      "image": "https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/101.webp",
+      "coin":1000
+    },
+    {
+      "id":102,
+      "name_category": "dewol",
+      "title":"102",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/102.webp",
+      "coin":1000
+    },
+    {
+      "id":103,
+      "name_category": "dewol",
+      "title":"103",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/103.webp",
+      "coin":1000
+    },
+    {
+      "id":104,
+      "name_category": "dewol",
+      "title":"104",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/104.webp",
+      "coin":1000
+    },
+    {
+      "id":105,
+      "name_category": "dewol",
+      "title":"105",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/105.webp",
+      "coin":1000
+    },
+    {
+      "id":106,
+      "name_category": "dewol",
+      "title":"106",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/106.webp",
+      "coin":1000
+    },
+    {
+      "id":107,
+      "name_category": "dewol",
+      "title":"107",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/107.webp",
+      "coin":1000
+    },
+    {
+      "id":108,
+      "name_category": "dewol",
+      "title":"108",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/108.webp",
+      "coin":1000
+    },
+    {
+      "id":109,
+      "name_category": "dewol",
+      "title":"109",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/109.webp",
+      "coin":1000
+    },
+    {
+      "id":110,
+      "name_category": "dewol",
+      "title":"110",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/110.webp",
+      "coin":1000
+    },
+    {
+      "id": 111,
+      "name_category": "dewol",
+      "title": "111",
+      "image": "https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/111.webp",
+      "coin":1000
+    },
+    {
+      "id":112,
+      "name_category": "dewol",
+      "title":"112",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/112.webp",
+      "coin":1000
+    },
+    {
+      "id":113,
+      "name_category": "dewol",
+      "title":"113",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/113.webp",
+      "coin":1000
+    },
+    {
+      "id":114,
+      "name_category": "dewol",
+      "title":"114",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/114.webp",
+      "coin":1000
+    },
+    {
+      "id":115,
+      "name_category": "dewol",
+      "title":"115",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/115.webp",
+      "coin":1000
+    },
+    {
+      "id":116,
+      "name_category": "dewol",
+      "title":"116",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/116.webp",
+      "coin":1000
+    },
+    {
+      "id":117,
+      "name_category": "dewol",
+      "title":"117",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/117.webp",
+      "coin":1000
+    },
+    {
+      "id":118,
+      "name_category": "dewol",
+      "title":"118",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/118.webp",
+      "coin":1000
+    },
+    {
+      "id":119,
+      "name_category": "dewol",
+      "title":"119",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/119.webp",
+      "coin":1000
+    },
+    {
+      "id":120,
+      "name_category": "dewol",
+      "title":"120",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/120.webp",
+      "coin":1000
+    },
+    {
+      "id": 121,
+      "name_category": "dewol",
+      "title": "121",
+      "image": "https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/121.webp",
+      "coin":1000
+    },
+    {
+      "id":122,
+      "name_category": "dewol",
+      "title":"122",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/122.webp",
+      "coin":1000
+    },
+    {
+      "id":123,
+      "name_category": "dewol",
+      "title":"123",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/123.webp",
+      "coin":1000
+    },
+    {
+      "id":124,
+      "name_category": "dewol",
+      "title":"124",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/124.webp",
+      "coin":1000
+    },
+    {
+      "id":125,
+      "name_category": "dewol",
+      "title":"125",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/125.webp",
+      "coin":1000
+    },
+    {
+      "id":126,
+      "name_category": "dewol",
+      "title":"126",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/126.webp",
+      "coin":1000
+    },
+    {
+      "id":127,
+      "name_category": "dewol",
+      "title":"127",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/127.webp",
+      "coin":1000
+    },
+    {
+      "id":128,
+      "name_category": "dewol",
+      "title":"128",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/128.webp",
+      "coin":1000
+    },
+    {
+      "id":129,
+      "name_category": "dewol",
+      "title":"129",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/129.webp",
+      "coin":1000
+    },
+    {
+      "id":130,
+      "name_category": "dewol",
+      "title":"130",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/130.webp",
+      "coin":1000
+    },
+    {
+      "id": 131,
+      "name_category": "dewol",
+      "title": "131",
+      "image": "https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/131.webp",
+      "coin":1000
+    },
+    {
+      "id":132,
+      "name_category": "dewol",
+      "title":"132",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/132.webp",
+      "coin":1000
+    },
+    {
+      "id":133,
+      "name_category": "dewol",
+      "title":"133",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/133.webp",
+      "coin":1000
+    },
+    {
+      "id":134,
+      "name_category": "dewol",
+      "title":"134",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/134.webp",
+      "coin":1000
+    },
+    {
+      "id":135,
+      "name_category": "dewol",
+      "title":"135",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/135.webp",
+      "coin":1000
+    },
+    {
+      "id":136,
+      "name_category": "dewol",
+      "title":"136",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/136.webp",
+      "coin":1000
+    },
+    {
+      "id":137,
+      "name_category": "dewol",
+      "title":"137",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/137.webp",
+      "coin":1000
+    },
+    {
+      "id":138,
+      "name_category": "dewol",
+      "title":"138",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/138.webp",
+      "coin":1000
+    },
+    {
+      "id":139,
+      "name_category": "dewol",
+      "title":"139",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/139.webp",
+      "coin":1000
+    },
+    {
+      "id":140,
+      "name_category": "dewol",
+      "title":"140",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/140.webp",
+      "coin":1000
+    },
+    {
+      "id": 141,
+      "name_category": "dewol",
+      "title": "141",
+      "image": "https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/141.webp",
+      "coin":1000
+    },
+    {
+      "id":142,
+      "name_category": "dewol",
+      "title":"142",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/142.webp",
+      "coin":1000
+    },
+    {
+      "id":143,
+      "name_category": "dewol",
+      "title":"143",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/143.webp",
+      "coin":1000
+    },
+    {
+      "id":144,
+      "name_category": "dewol",
+      "title":"144",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/144.webp",
+      "coin":1000
+    },
+    {
+      "id":145,
+      "name_category": "dewol",
+      "title":"145",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/145.webp",
+      "coin":1000
+    },
+    {
+      "id":146,
+      "name_category": "dewol",
+      "title":"146",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/146.webp",
+      "coin":1000
+    },
+    {
+      "id":147,
+      "name_category": "dewol",
+      "title":"147",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/147.webp",
+      "coin":1000
+    },
+    {
+      "id":148,
+      "name_category": "dewol",
+      "title":"148",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/148.webp",
+      "coin":1000
+    },
+    {
+      "id":149,
+      "name_category": "dewol",
+      "title":"149",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/149.webp",
+      "coin":1000
+    },
+    {
+      "id":150,
+      "name_category": "dewol",
+      "title":"150",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/150.webp",
+      "coin":1000
+    },
+    {
+      "id": 151,
+      "name_category": "dewol",
+      "title": "151",
+      "image": "https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/151.webp",
+      "coin":1000
+    },
+    {
+      "id":152,
+      "name_category": "dewol",
+      "title":"152",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/152.webp",
+      "coin":1000
+    },
+    {
+      "id":153,
+      "name_category": "dewol",
+      "title":"153",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/153.webp",
+      "coin":1000
+    },
+    {
+      "id":154,
+      "name_category": "dewol",
+      "title":"154",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/154.webp",
+      "coin":1000
+    },
+    {
+      "id":155,
+      "name_category": "dewol",
+      "title":"155",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/155.webp",
+      "coin":1000
+    },
+    {
+      "id":156,
+      "name_category": "dewol",
+      "title":"156",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/156.webp",
+      "coin":1000
+    },
+    {
+      "id":157,
+      "name_category": "dewol",
+      "title":"157",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/157.webp",
+      "coin":1000
+    },
+    {
+      "id":158,
+      "name_category": "dewol",
+      "title":"158",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/158.webp",
+      "coin":1000
+    },
+    {
+      "id":159,
+      "name_category": "dewol",
+      "title":"159",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/159.webp",
+      "coin":1000
+    },
+    {
+      "id":160,
+      "name_category": "dewol",
+      "title":"160",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/160.webp",
+      "coin":1000
+    },
+    {
+      "id": 161,
+      "name_category": "dewol",
+      "title": "161",
+      "image": "https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/161.webp",
+      "coin":1000
+    },
+    {
+      "id":162,
+      "name_category": "dewol",
+      "title":"162",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/162.webp",
+      "coin":1000
+    },
+    {
+      "id":163,
+      "name_category": "dewol",
+      "title":"163",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/163.webp",
+      "coin":1000
+    },
+    {
+      "id":164,
+      "name_category": "dewol",
+      "title":"164",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/164.webp",
+      "coin":1000
+    },
+    {
+      "id":165,
+      "name_category": "dewol",
+      "title":"165",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/165.webp",
+      "coin":1000
+    },
+    {
+      "id":166,
+      "name_category": "dewol",
+      "title":"166",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/166.webp",
+      "coin":1000
+    },
+    {
+      "id":167,
+      "name_category": "dewol",
+      "title":"167",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/167.webp",
+      "coin":1000
+    },
+    {
+      "id":168,
+      "name_category": "dewol",
+      "title":"168",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/168.webp",
+      "coin":1000
+    },
+    {
+      "id":169,
+      "name_category": "dewol",
+      "title":"169",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/169.webp",
+      "coin":1000
+    },
+    {
+      "id":170,
+      "name_category": "dewol",
+      "title":"170",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/170.webp",
+      "coin":1000
+    },
+    {
+      "id": 171,
+      "name_category": "dewol",
+      "title": "171",
+      "image": "https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/171.webp",
+      "coin":1000
+    },
+    {
+      "id":172,
+      "name_category": "dewol",
+      "title":"172",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/172.webp",
+      "coin":1000
+    },
+    {
+      "id":173,
+      "name_category": "dewol",
+      "title":"173",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/173.webp",
+      "coin":1000
+    },
+    {
+      "id":174,
+      "name_category": "dewol",
+      "title":"174",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/174.webp",
+      "coin":1000
+    },
+    {
+      "id":175,
+      "name_category": "dewol",
+      "title":"175",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/175.webp",
+      "coin":1000
+    },
+    {
+      "id":176,
+      "name_category": "dewol",
+      "title":"176",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/176.webp",
+      "coin":1000
+    },
+    {
+      "id":177,
+      "name_category": "dewol",
+      "title":"177",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/177.webp",
+      "coin":1000
+    },
+    {
+      "id":178,
+      "name_category": "dewol",
+      "title":"178",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/178.webp",
+      "coin":1000
+    },
+    {
+      "id":179,
+      "name_category": "dewol",
+      "title":"179",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/179.webp",
+      "coin":1000
+    },
+    {
+      "id":180,
+      "name_category": "dewol",
+      "title":"180",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/180.webp",
+      "coin":1000
+    },
+    {
+      "id": 181,
+      "name_category": "dewol",
+      "title": "181",
+      "image": "https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/181.webp",
+      "coin":1000
+    },
+    {
+      "id":182,
+      "name_category": "dewol",
+      "title":"182",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/182.webp",
+      "coin":1000
+    },
+    {
+      "id":183,
+      "name_category": "dewol",
+      "title":"183",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/183.webp",
+      "coin":1000
+    },
+    {
+      "id":184,
+      "name_category": "dewol",
+      "title":"184",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/184.webp",
+      "coin":1000
+    },
+    {
+      "id":185,
+      "name_category": "dewol",
+      "title":"185",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/185.webp",
+      "coin":1000
+    },
+    {
+      "id":186,
+      "name_category": "dewol",
+      "title":"186",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/186.webp",
+      "coin":1000
+    },
+    {
+      "id":187,
+      "name_category": "dewol",
+      "title":"187",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/187.webp",
+      "coin":1000
+    },
+    {
+      "id":188,
+      "name_category": "dewol",
+      "title":"188",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/188.webp",
+      "coin":1000
+    },
+    {
+      "id":189,
+      "name_category": "dewol",
+      "title":"189",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/189.webp",
+      "coin":1000
+    },
+    {
+      "id":190,
+      "name_category": "dewol",
+      "title":"190",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/190.webp",
+      "coin":1000
+    },
+    {
+      "id": 191,
+      "name_category": "dewol",
+      "title": "191",
+      "image": "https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/191.webp",
+      "coin":1000
+    },
+    {
+      "id":192,
+      "name_category": "dewol",
+      "title":"192",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/192.webp",
+      "coin":1000
+    },
+    {
+      "id":193,
+      "name_category": "dewol",
+      "title":"193",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/193.webp",
+      "coin":1000
+    },
+    {
+      "id":194,
+      "name_category": "dewol",
+      "title":"194",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/194.webp",
+      "coin":1000
+    },
+    {
+      "id":195,
+      "name_category": "dewol",
+      "title":"195",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/195.webp",
+      "coin":1000
+    },
+    {
+      "id":196,
+      "name_category": "dewol",
+      "title":"196",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/196.webp",
+      "coin":1000
+    },
+    {
+      "id":197,
+      "name_category": "dewol",
+      "title":"197",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/197.webp",
+      "coin":1000
+    },
+    {
+      "id":198,
+      "name_category": "dewol",
+      "title":"198",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/198.webp",
+      "coin":1000
+    },
+    {
+      "id":199,
+      "name_category": "dewol",
+      "title":"199",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/199.webp",
+      "coin":1000
+    },
+    {
+      "id":200,
+      "name_category": "dewol",
+      "title":"200",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/200.webp",
+      "coin":1000
+    },
+    {
+      "id": 201,
+      "name_category": "dewol",
+      "title": "201",
+      "image": "https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/201.webp",
+      "coin":1000
+    },
+    {
+      "id":202,
+      "name_category": "dewol",
+      "title":"202",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/202.webp",
+      "coin":1000
+    },
+    {
+      "id":203,
+      "name_category": "dewol",
+      "title":"203",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/203.webp",
+      "coin":1000
+    },
+    {
+      "id":204,
+      "name_category": "dewol",
+      "title":"204",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/204.webp",
+      "coin":1000
+    },
+    {
+      "id":205,
+      "name_category": "dewol",
+      "title":"205",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/205.webp",
+      "coin":1000
+    },
+    {
+      "id":206,
+      "name_category": "dewol",
+      "title":"206",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/206.webp",
+      "coin":1000
+    },
+    {
+      "id":207,
+      "name_category": "dewol",
+      "title":"207",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/207.webp",
+      "coin":1000
+    },
+    {
+      "id":208,
+      "name_category": "dewol",
+      "title":"208",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/208.webp",
+      "coin":1000
+    },
+    {
+      "id":209,
+      "name_category": "dewol",
+      "title":"209",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/209.webp",
+      "coin":1000
+    },
+    {
+      "id":210,
+      "name_category": "dewol",
+      "title":"210",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/210.webp",
+      "coin":1000
+    },
+    {
+      "id": 211,
+      "name_category": "dewol",
+      "title": "211",
+      "image": "https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/211.webp",
+      "coin":1000
+    },
+    {
+      "id":212,
+      "name_category": "dewol",
+      "title":"212",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/212.webp",
+      "coin":1000
+    },
+    {
+      "id":213,
+      "name_category": "dewol",
+      "title":"213",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/213.webp",
+      "coin":1000
+    },
+    {
+      "id":214,
+      "name_category": "dewol",
+      "title":"214",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/214.webp",
+      "coin":1000
+    },
+    {
+      "id":215,
+      "name_category": "dewol",
+      "title":"215",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/215.webp",
+      "coin":1000
+    },
+    {
+      "id":216,
+      "name_category": "dewol",
+      "title":"216",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/216.webp",
+      "coin":1000
+    },
+    {
+      "id":217,
+      "name_category": "dewol",
+      "title":"217",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/217.webp",
+      "coin":1000
+    },
+    {
+      "id":218,
+      "name_category": "dewol",
+      "title":"218",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/218.webp",
+      "coin":1000
+    },
+    {
+      "id":219,
+      "name_category": "dewol",
+      "title":"219",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/219.webp",
+      "coin":1000
+    },
+    {
+      "id":220,
+      "name_category": "dewol",
+      "title":"220",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/220.webp",
+      "coin":1000
+    },
+    {
+      "id": 221,
+      "name_category": "dewol",
+      "title": "221",
+      "image": "https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/221.webp",
+      "coin":1000
+    },
+    {
+      "id":222,
+      "name_category": "dewol",
+      "title":"222",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/222.webp",
+      "coin":1000
+    },
+    {
+      "id":223,
+      "name_category": "dewol",
+      "title":"223",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/223.webp",
+      "coin":1000
+    },
+    {
+      "id":224,
+      "name_category": "dewol",
+      "title":"224",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/224.webp",
+      "coin":1000
+    },
+    {
+      "id":225,
+      "name_category": "dewol",
+      "title":"225",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/225.webp",
+      "coin":1000
+    },
+    {
+      "id":226,
+      "name_category": "dewol",
+      "title":"226",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/226.webp",
+      "coin":1000
+    },
+    {
+      "id":227,
+      "name_category": "dewol",
+      "title":"227",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/227.webp",
+      "coin":1000
+    },
+    {
+      "id":228,
+      "name_category": "dewol",
+      "title":"228",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/228.webp",
+      "coin":1000
+    },
+    {
+      "id":229,
+      "name_category": "dewol",
+      "title":"229",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/229.webp",
+      "coin":1000
+    },
+    {
+      "id":230,
+      "name_category": "dewol",
+      "title":"230",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/230.webp",
+      "coin":1000
+    },
+    {
+      "id": 231,
+      "name_category": "dewol",
+      "title": "231",
+      "image": "https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/231.webp",
+      "coin":1000
+    },
+    {
+      "id":232,
+      "name_category": "dewol",
+      "title":"232",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/232.webp",
+      "coin":1000
+    },
+    {
+      "id":233,
+      "name_category": "dewol",
+      "title":"233",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/233.webp",
+      "coin":1000
+    },
+    {
+      "id":234,
+      "name_category": "dewol",
+      "title":"234",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/234.webp",
+      "coin":1000
+    },
+    {
+      "id":235,
+      "name_category": "dewol",
+      "title":"235",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/235.webp",
+      "coin":1000
+    },
+    {
+      "id":236,
+      "name_category": "dewol",
+      "title":"236",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/236.webp",
+      "coin":1000
+    },
+    {
+      "id":237,
+      "name_category": "dewol",
+      "title":"237",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/237.webp",
+      "coin":1000
+    },
+    {
+      "id":238,
+      "name_category": "dewol",
+      "title":"238",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/238.webp",
+      "coin":1000
+    },
+    {
+      "id":239,
+      "name_category": "dewol",
+      "title":"239",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/239.webp",
+      "coin":1000
+    },
+    {
+      "id":240,
+      "name_category": "dewol",
+      "title":"240",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/240.webp",
+      "coin":1000
+    },
+    {
+      "id": 241,
+      "name_category": "dewol",
+      "title": "241",
+      "image": "https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/241.webp",
+      "coin":1000
+    },
+    {
+      "id":242,
+      "name_category": "dewol",
+      "title":"242",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/242.webp",
+      "coin":1000
+    },
+    {
+      "id":243,
+      "name_category": "dewol",
+      "title":"243",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/243.webp",
+      "coin":1000
+    },
+    {
+      "id":244,
+      "name_category": "dewol",
+      "title":"244",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/244.webp",
+      "coin":1000
+    },
+    {
+      "id":245,
+      "name_category": "dewol",
+      "title":"245",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/245.webp",
+      "coin":1000
+    },
+    {
+      "id":246,
+      "name_category": "dewol",
+      "title":"246",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/246.webp",
+      "coin":1000
+    },
+    {
+      "id":247,
+      "name_category": "dewol",
+      "title":"247",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/247.webp",
+      "coin":1000
+    },
+    {
+      "id":248,
+      "name_category": "dewol",
+      "title":"248",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/248.webp",
+      "coin":1000
+    },
+    {
+      "id":249,
+      "name_category": "dewol",
+      "title":"249",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/249.webp",
+      "coin":1000
+    },
+    {
+      "id":250,
+      "name_category": "dewol",
+      "title":"250",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/250.webp",
+      "coin":1000
+    },
+    {
+      "id": 251,
+      "name_category": "dewol",
+      "title": "251",
+      "image": "https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/251.webp",
+      "coin":1000
+    },
+    {
+      "id":252,
+      "name_category": "dewol",
+      "title":"252",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/252.webp",
+      "coin":1000
+    },
+    {
+      "id":253,
+      "name_category": "dewol",
+      "title":"253",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/253.webp",
+      "coin":1000
+    },
+    {
+      "id":254,
+      "name_category": "dewol",
+      "title":"254",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/254.webp",
+      "coin":1000
+    },
+    {
+      "id":255,
+      "name_category": "dewol",
+      "title":"255",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/255.webp",
+      "coin":1000
+    },
+    {
+      "id":256,
+      "name_category": "dewol",
+      "title":"256",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/256.webp",
+      "coin":1000
+    },
+    {
+      "id":257,
+      "name_category": "dewol",
+      "title":"257",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/257.webp",
+      "coin":1000
+    },
+    {
+      "id":258,
+      "name_category": "dewol",
+      "title":"258",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/258.webp",
+      "coin":1000
+    },
+    {
+      "id":259,
+      "name_category": "dewol",
+      "title":"259",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/259.webp",
+      "coin":1000
+    },
+    {
+      "id":260,
+      "name_category": "dewol",
+      "title":"260",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/260.webp",
+      "coin":1000
+    },
+    {
+      "id": 261,
+      "name_category": "dewol",
+      "title": "261",
+      "image": "https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/261.webp",
+      "coin":1000
+    },
+    {
+      "id":262,
+      "name_category": "dewol",
+      "title":"262",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/262.webp",
+      "coin":1000
+    },
+    {
+      "id":263,
+      "name_category": "dewol",
+      "title":"263",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/263.webp",
+      "coin":1000
+    },
+    {
+      "id":264,
+      "name_category": "dewol",
+      "title":"264",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/264.webp",
+      "coin":1000
+    },
+    {
+      "id":265,
+      "name_category": "dewol",
+      "title":"265",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/265.webp",
+      "coin":1000
+    },
+    {
+      "id":266,
+      "name_category": "dewol",
+      "title":"266",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/266.webp",
+      "coin":1000
+    },
+	{
+      "id":267,
+      "name_category": "dewol",
+      "title":"267",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/267.webp",
+      "coin":1000
+    },
+    {
+      "id": 268,
+      "name_category": "dewol",
+      "title": "268",
+      "image": "https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/268.webp",
+      "coin":1000
+    },
+    {
+      "id":269,
+      "name_category": "dewol",
+      "title":"269",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/269.webp",
+      "coin":1000
+    },
+    {
+      "id":270,
+      "name_category": "dewol",
+      "title":"270",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/270.webp",
+      "coin":1000
+    },
+    {
+      "id":271,
+      "name_category": "dewol",
+      "title":"271",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/271.webp",
+      "coin":1000
+    },
+    {
+      "id":272,
+      "name_category": "dewol",
+      "title":"272",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/272.webp",
+      "coin":1000
+    },
+    {
+      "id":273,
+      "name_category": "dewol",
+      "title":"273",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/273.webp",
+      "coin":1000
+    },
+    {
+      "id":274,
+      "name_category": "dewol",
+      "title":"274",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/274.webp",
+      "coin":1000
+    },
+    {
+      "id":275,
+      "name_category": "dewol",
+      "title":"275",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/275.webp",
+      "coin":1000
+    },
+    {
+      "id":276,
+      "name_category": "dewol",
+      "title":"276",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/276.webp",
+      "coin":1000
+    },
+    {
+      "id": 277,
+      "name_category": "dewol",
+      "title": "277",
+      "image": "https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/277.webp",
+      "coin":1000
+    },
+    {
+      "id":278,
+      "name_category": "dewol",
+      "title":"278",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/278.webp",
+      "coin":1000
+    },
+    {
+      "id":279,
+      "name_category": "dewol",
+      "title":"279",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/279.webp",
+      "coin":1000
+    },
+    {
+      "id":280,
+      "name_category": "dewol",
+      "title":"280",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/280.webp",
+      "coin":1000
+    },
+    {
+      "id":281,
+      "name_category": "dewol",
+      "title":"281",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/281.webp",
+      "coin":1000
+    },
+    {
+      "id":282,
+      "name_category": "dewol",
+      "title":"282",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/282.webp",
+      "coin":1000
+    },
+    {
+      "id":283,
+      "name_category": "dewol",
+      "title":"283",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/283.webp",
+      "coin":1000
+    },
+    {
+      "id":284,
+      "name_category": "dewol",
+      "title":"284",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/284.webp",
+      "coin":1000
+    },
+    {
+      "id":285,
+      "name_category": "dewol",
+      "title":"285",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/285.webp",
+      "coin":1000
+    },
+    {
+      "id":286,
+      "name_category": "dewol",
+      "title":"286",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/286.webp",
+      "coin":1000
+    },
+    {
+      "id": 287,
+      "name_category": "dewol",
+      "title": "287",
+      "image": "https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/287.webp",
+      "coin":1000
+    },
+    {
+      "id":288,
+      "name_category": "dewol",
+      "title":"288",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/288.webp",
+      "coin":1000
+    },
+    {
+      "id":289,
+      "name_category": "dewol",
+      "title":"289",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/289.webp",
+      "coin":1000
+    },
+    {
+      "id":290,
+      "name_category": "dewol",
+      "title":"290",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/290.webp",
+      "coin":1000
+    },
+    {
+      "id":291,
+      "name_category": "dewol",
+      "title":"291",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/291.webp",
+      "coin":1000
+    },
+    {
+      "id":292,
+      "name_category": "dewol",
+      "title":"292",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/292.webp",
+      "coin":1000
+    },
+    {
+      "id":293,
+      "name_category": "dewol",
+      "title":"293",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/293.webp",
+      "coin":1000
+    },
+    {
+      "id":294,
+      "name_category": "dewol",
+      "title":"294",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/294.webp",
+      "coin":1000
+    },
+    {
+      "id":295,
+      "name_category": "dewol",
+      "title":"295",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/295.webp",
+      "coin":1000
+    },
+    {
+      "id":296,
+      "name_category": "dewol",
+      "title":"296",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/296.webp",
+      "coin":1000
+    },
+    {
+      "id": 297,
+      "name_category": "dewol",
+      "title": "297",
+      "image": "https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/297.webp",
+      "coin":1000
+    },
+    {
+      "id":298,
+      "name_category": "dewol",
+      "title":"298",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/298.webp",
+      "coin":1000
+    },
+    {
+      "id":299,
+      "name_category": "dewol",
+      "title":"299",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/299.webp",
+      "coin":1000
+    },
+    {
+      "id":300,
+      "name_category": "dewol",
+      "title":"300",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/300.webp",
+      "coin":1000
+    },
+    {
+      "id":301,
+      "name_category": "dewol",
+      "title":"301",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/301.webp",
+      "coin":1000
+    },
+    {
+      "id":302,
+      "name_category": "dewol",
+      "title":"302",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/302.webp",
+      "coin":1000
+    },
+    {
+      "id":303,
+      "name_category": "dewol",
+      "title":"303",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/303.webp",
+      "coin":1000
+    },
+    {
+      "id":304,
+      "name_category": "dewol",
+      "title":"304",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/304.webp",
+      "coin":1000
+    },
+    {
+      "id":305,
+      "name_category": "dewol",
+      "title":"305",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/305.webp",
+      "coin":1000
+    },
+    {
+      "id":306,
+      "name_category": "dewol",
+      "title":"306",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/306.webp",
+      "coin":1000
+    },
+    {
+      "id": 307,
+      "name_category": "dewol",
+      "title": "307",
+      "image": "https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/307.webp",
+      "coin":1000
+    },
+    {
+      "id":308,
+      "name_category": "dewol",
+      "title":"308",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/308.webp",
+      "coin":1000
+    },
+    {
+      "id":309,
+      "name_category": "dewol",
+      "title":"309",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/309.webp",
+      "coin":1000
+    },
+    {
+      "id":310,
+      "name_category": "dewol",
+      "title":"310",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/310.webp",
+      "coin":1000
+    },
+    {
+      "id":311,
+      "name_category": "dewol",
+      "title":"311",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/311.webp",
+      "coin":1000
+    },
+    {
+      "id":312,
+      "name_category": "dewol",
+      "title":"312",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/312.webp",
+      "coin":1000
+    },
+    {
+      "id":313,
+      "name_category": "dewol",
+      "title":"313",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/313.webp",
+      "coin":1000
+    },
+    {
+      "id":314,
+      "name_category": "dewol",
+      "title":"314",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/314.webp",
+      "coin":1000
+    },
+    {
+      "id":315,
+      "name_category": "dewol",
+      "title":"315",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/315.webp",
+      "coin":1000
+    },
+    {
+      "id":316,
+      "name_category": "dewol",
+      "title":"316",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/316.webp",
+      "coin":1000
+    },
+    {
+      "id": 317,
+      "name_category": "dewol",
+      "title": "317",
+      "image": "https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/317.webp",
+      "coin":1000
+    },
+    {
+      "id":318,
+      "name_category": "dewol",
+      "title":"318",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/318.webp",
+      "coin":1000
+    },
+    {
+      "id":319,
+      "name_category": "dewol",
+      "title":"319",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/319.webp",
+      "coin":1000
+    },
+    {
+      "id":320,
+      "name_category": "dewol",
+      "title":"320",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/320.webp",
+      "coin":1000
+    },
+    {
+      "id":321,
+      "name_category": "dewol",
+      "title":"321",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/321.webp",
+      "coin":1000
+    },
+    {
+      "id":322,
+      "name_category": "dewol",
+      "title":"322",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/322.webp",
+      "coin":1000
+    },
+    {
+      "id":323,
+      "name_category": "dewol",
+      "title":"323",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/323.webp",
+      "coin":1000
+    },
+    {
+      "id":324,
+      "name_category": "dewol",
+      "title":"324",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/324.webp",
+      "coin":1000
+    },
+    {
+      "id":325,
+      "name_category": "dewol",
+      "title":"325",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/325.webp",
+      "coin":1000
+    },
+    {
+      "id":326,
+      "name_category": "dewol",
+      "title":"326",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/326.webp",
+      "coin":1000
+    },
+    {
+      "id": 327,
+      "name_category": "dewol",
+      "title": "327",
+      "image": "https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/327.webp",
+      "coin":1000
+    },
+    {
+      "id":328,
+      "name_category": "dewol",
+      "title":"328",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/328.webp",
+      "coin":1000
+    },
+    {
+      "id":329,
+      "name_category": "dewol",
+      "title":"329",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/329.webp",
+      "coin":1000
+    },
+    {
+      "id":330,
+      "name_category": "dewol",
+      "title":"330",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/330.webp",
+      "coin":1000
+    },
+    {
+      "id":331,
+      "name_category": "dewol",
+      "title":"331",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/331.webp",
+      "coin":1000
+    },
+    {
+      "id":332,
+      "name_category": "dewol",
+      "title":"332",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/332.webp",
+      "coin":1000
+    },
+    {
+      "id":333,
+      "name_category": "dewol",
+      "title":"333",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/333.webp",
+      "coin":1000
+    },
+    {
+      "id":334,
+      "name_category": "dewol",
+      "title":"334",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/334.webp",
+      "coin":1000
+    },
+    {
+      "id":335,
+      "name_category": "dewol",
+      "title":"335",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/335.webp",
+      "coin":1000
+    },
+    {
+      "id":336,
+      "name_category": "dewol",
+      "title":"336",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/336.webp",
+      "coin":1000
+    },
+    {
+      "id": 337,
+      "name_category": "dewol",
+      "title": "337",
+      "image": "https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/337.webp",
+      "coin":1000
+    },
+    {
+      "id":338,
+      "name_category": "dewol",
+      "title":"338",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/338.webp",
+      "coin":1000
+    },
+    {
+      "id":339,
+      "name_category": "dewol",
+      "title":"339",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/339.webp",
+      "coin":1000
+    },
+    {
+      "id":340,
+      "name_category": "dewol",
+      "title":"340",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/340.webp",
+      "coin":1000
+    },
+    {
+      "id":341,
+      "name_category": "dewol",
+      "title":"341",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/341.webp",
+      "coin":1000
+    },
+    {
+      "id":342,
+      "name_category": "dewol",
+      "title":"342",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/342.webp",
+      "coin":1000
+    },
+    {
+      "id":343,
+      "name_category": "dewol",
+      "title":"343",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/343.webp",
+      "coin":1000
+    },
+    {
+      "id":344,
+      "name_category": "dewol",
+      "title":"344",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/344.webp",
+      "coin":1000
+    },
+    {
+      "id":345,
+      "name_category": "dewol",
+      "title":"345",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/345.webp",
+      "coin":1000
+    },
+    {
+      "id":346,
+      "name_category": "dewol",
+      "title":"346",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/346.webp",
+      "coin":1000
+    },
+    {
+      "id": 347,
+      "name_category": "dewol",
+      "title": "347",
+      "image": "https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/347.webp",
+      "coin":1000
+    },
+    {
+      "id":348,
+      "name_category": "dewol",
+      "title":"348",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/348.webp",
+      "coin":1000
+    },
+    {
+      "id":349,
+      "name_category": "dewol",
+      "title":"349",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/349.webp",
+      "coin":1000
+    },
+    {
+      "id":350,
+      "name_category": "dewol",
+      "title":"350",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/350.webp",
+      "coin":1000
+    },
+    {
+      "id":351,
+      "name_category": "dewol",
+      "title":"351",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/351.webp",
+      "coin":1000
+    },
+    {
+      "id":352,
+      "name_category": "dewol",
+      "title":"352",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/352.webp",
+      "coin":1000
+    },
+    {
+      "id":353,
+      "name_category": "dewol",
+      "title":"353",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/353.webp",
+      "coin":1000
+    },
+    {
+      "id":354,
+      "name_category": "dewol",
+      "title":"354",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/354.webp",
+      "coin":1000
+    },
+    {
+      "id":355,
+      "name_category": "dewol",
+      "title":"355",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/355.webp",
+      "coin":1000
+    },
+    {
+      "id":356,
+      "name_category": "dewol",
+      "title":"356",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/356.webp",
+      "coin":1000
+    },
+    {
+      "id": 357,
+      "name_category": "dewol",
+      "title": "357",
+      "image": "https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/357.webp",
+      "coin":1000
+    },
+    {
+      "id":358,
+      "name_category": "dewol",
+      "title":"358",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/358.webp",
+      "coin":1000
+    },
+    {
+      "id":359,
+      "name_category": "dewol",
+      "title":"359",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/359.webp",
+      "coin":1000
+    },
+    {
+      "id":360,
+      "name_category": "dewol",
+      "title":"360",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/360.webp",
+      "coin":1000
+    },
+    {
+      "id":361,
+      "name_category": "dewol",
+      "title":"361",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/361.webp",
+      "coin":1000
+    },
+    {
+      "id":362,
+      "name_category": "dewol",
+      "title":"362",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/362.webp",
+      "coin":1000
+    },
+    {
+      "id":363,
+      "name_category": "dewol",
+      "title":"363",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/363.webp",
+      "coin":1000
+    },
+    {
+      "id":364,
+      "name_category": "dewol",
+      "title":"364",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/364.webp",
+      "coin":1000
+    },
+    {
+      "id":365,
+      "name_category": "dewol",
+      "title":"365",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/365.webp",
+      "coin":1000
+    },
+    {
+      "id":366,
+      "name_category": "dewol",
+      "title":"366",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/366.webp",
+      "coin":1000
+    },
+    {
+      "id": 367,
+      "name_category": "dewol",
+      "title": "367",
+      "image": "https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/367.webp",
+      "coin":1000
+    },
+    {
+      "id":368,
+      "name_category": "dewol",
+      "title":"368",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/368.webp",
+      "coin":1000
+    },
+    {
+      "id":369,
+      "name_category": "dewol",
+      "title":"369",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/369.webp",
+      "coin":1000
+    },
+    {
+      "id":370,
+      "name_category": "dewol",
+      "title":"370",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/370.webp",
+      "coin":1000
+    },
+    {
+      "id":371,
+      "name_category": "dewol",
+      "title":"371",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/371.webp",
+      "coin":1000
+    },
+    {
+      "id":372,
+      "name_category": "dewol",
+      "title":"372",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/372.webp",
+      "coin":1000
+    },
+    {
+      "id":373,
+      "name_category": "dewol",
+      "title":"373",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/373.webp",
+      "coin":1000
+    },
+    {
+      "id":374,
+      "name_category": "dewol",
+      "title":"374",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/374.webp",
+      "coin":1000
+    },
+    {
+      "id":375,
+      "name_category": "dewol",
+      "title":"375",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/375.webp",
+      "coin":1000
+    },
+    {
+      "id":376,
+      "name_category": "dewol",
+      "title":"376",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/376.webp",
+      "coin":1000
+    },
+    {
+      "id": 377,
+      "name_category": "dewol",
+      "title": "377",
+      "image": "https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/377.webp",
+      "coin":1000
+    },
+    {
+      "id":378,
+      "name_category": "dewol",
+      "title":"378",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/378.webp",
+      "coin":1000
+    },
+    {
+      "id":379,
+      "name_category": "dewol",
+      "title":"379",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/379.webp",
+      "coin":1000
+    },
+    {
+      "id":380,
+      "name_category": "dewol",
+      "title":"380",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/380.webp",
+      "coin":1000
+    },
+    {
+      "id":381,
+      "name_category": "dewol",
+      "title":"381",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/381.webp",
+      "coin":1000
+    },
+    {
+      "id":382,
+      "name_category": "dewol",
+      "title":"382",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/382.webp",
+      "coin":1000
+    },
+    {
+      "id":383,
+      "name_category": "dewol",
+      "title":"383",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/383.webp",
+      "coin":1000
+    },
+    {
+      "id":384,
+      "name_category": "dewol",
+      "title":"384",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/384.webp",
+      "coin":1000
+    },
+    {
+      "id":385,
+      "name_category": "dewol",
+      "title":"385",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/385.webp",
+      "coin":1000
+    },
+    {
+      "id":386,
+      "name_category": "dewol",
+      "title":"386",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/386.webp",
+      "coin":1000
+    },
+    {
+      "id": 387,
+      "name_category": "dewol",
+      "title": "387",
+      "image": "https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/387.webp",
+      "coin":1000
+    },
+    {
+      "id":388,
+      "name_category": "dewol",
+      "title":"388",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/388.webp",
+      "coin":1000
+    },
+    {
+      "id":389,
+      "name_category": "dewol",
+      "title":"389",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/389.webp",
+      "coin":1000
+    },
+    {
+      "id":390,
+      "name_category": "dewol",
+      "title":"390",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/390.webp",
+      "coin":1000
+    },
+    {
+      "id":391,
+      "name_category": "dewol",
+      "title":"391",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/391.webp",
+      "coin":1000
+    },
+    {
+      "id":392,
+      "name_category": "dewol",
+      "title":"392",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/392.webp",
+      "coin":1000
+    },
+    {
+      "id":393,
+      "name_category": "dewol",
+      "title":"393",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/393.webp",
+      "coin":1000
+    },
+    {
+      "id":394,
+      "name_category": "dewol",
+      "title":"394",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/394.webp",
+      "coin":1000
+    },
+    {
+      "id":395,
+      "name_category": "dewol",
+      "title":"395",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/395.webp",
+      "coin":1000
+    },
+    {
+      "id":396,
+      "name_category": "dewol",
+      "title":"396",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/396.webp",
+      "coin":1000
+    },
+    {
+      "id": 397,
+      "name_category": "dewol",
+      "title": "397",
+      "image": "https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/397.webp",
+      "coin":1000
+    },
+    {
+      "id":398,
+      "name_category": "dewol",
+      "title":"398",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/398.webp",
+      "coin":1000
+    },
+    {
+      "id":399,
+      "name_category": "dewol",
+      "title":"399",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/399.webp",
+      "coin":1000
+    },
+    {
+      "id":400,
+      "name_category": "dewol",
+      "title":"400",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/400.webp",
+      "coin":1000
+    },
+    {
+      "id":401,
+      "name_category": "dewol",
+      "title":"401",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/401.webp",
+      "coin":1000
+    },
+    {
+      "id":402,
+      "name_category": "dewol",
+      "title":"402",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/402.webp",
+      "coin":1000
+    },
+    {
+      "id":403,
+      "name_category": "dewol",
+      "title":"403",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/403.webp",
+      "coin":1000
+    },
+    {
+      "id":404,
+      "name_category": "dewol",
+      "title":"404",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/404.webp",
+      "coin":1000
+    },
+    {
+      "id":405,
+      "name_category": "dewol",
+      "title":"405",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/405.webp",
+      "coin":1000
+    },
+    {
+      "id":406,
+      "name_category": "dewol",
+      "title":"406",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/406.webp",
+      "coin":1000
+    },
+    {
+      "id": 407,
+      "name_category": "dewol",
+      "title": "407",
+      "image": "https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/407.webp",
+      "coin":1000
+    },
+    {
+      "id":408,
+      "name_category": "dewol",
+      "title":"408",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/408.webp",
+      "coin":1000
+    },
+    {
+      "id":409,
+      "name_category": "dewol",
+      "title":"409",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/409.webp",
+      "coin":1000
+    },
+    {
+      "id":410,
+      "name_category": "dewol",
+      "title":"410",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/410.webp",
+      "coin":1000
+    },
+    {
+      "id":411,
+      "name_category": "dewol",
+      "title":"411",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/411.webp",
+      "coin":1000
+    },
+    {
+      "id":412,
+      "name_category": "dewol",
+      "title":"412",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/412.webp",
+      "coin":1000
+    },
+    {
+      "id":413,
+      "name_category": "dewol",
+      "title":"413",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/413.webp",
+      "coin":1000
+    },
+    {
+      "id":414,
+      "name_category": "dewol",
+      "title":"414",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/414.webp",
+      "coin":1000
+    },
+    {
+      "id":415,
+      "name_category": "dewol",
+      "title":"415",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/415.webp",
+      "coin":1000
+    },
+    {
+      "id":416,
+      "name_category": "dewol",
+      "title":"416",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/416.webp",
+      "coin":1000
+    },
+    {
+      "id": 417,
+      "name_category": "dewol",
+      "title": "417",
+      "image": "https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/417.webp",
+      "coin":1000
+    },
+    {
+      "id":418,
+      "name_category": "dewol",
+      "title":"418",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/418.webp",
+      "coin":1000
+    },
+    {
+      "id":419,
+      "name_category": "dewol",
+      "title":"419",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/419.webp",
+      "coin":1000
+    },
+    {
+      "id":420,
+      "name_category": "dewol",
+      "title":"420",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/420.webp",
+      "coin":1000
+    },
+    {
+      "id":421,
+      "name_category": "dewol",
+      "title":"421",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/421.webp",
+      "coin":1000
+    },
+    {
+      "id":422,
+      "name_category": "dewol",
+      "title":"422",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/422.webp",
+      "coin":1000
+    },
+    {
+      "id":423,
+      "name_category": "dewol",
+      "title":"423",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/423.webp",
+      "coin":1000
+    },
+    {
+      "id":424,
+      "name_category": "dewol",
+      "title":"424",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/424.webp",
+      "coin":1000
+    },
+    {
+      "id":425,
+      "name_category": "dewol",
+      "title":"425",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/425.webp",
+      "coin":1000
+    },
+    {
+      "id":426,
+      "name_category": "dewol",
+      "title":"426",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/426.webp",
+      "coin":1000
+    },
+    {
+      "id": 427,
+      "name_category": "dewol",
+      "title": "427",
+      "image": "https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/427.webp",
+      "coin":1000
+    },
+    {
+      "id":428,
+      "name_category": "dewol",
+      "title":"428",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/428.webp",
+      "coin":1000
+    },
+    {
+      "id":429,
+      "name_category": "dewol",
+      "title":"429",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/429.webp",
+      "coin":1000
+    },
+    {
+      "id":430,
+      "name_category": "dewol",
+      "title":"430",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/430.webp",
+      "coin":1000
+    },
+    {
+      "id":431,
+      "name_category": "dewol",
+      "title":"431",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/431.webp",
+      "coin":1000
+    },
+    {
+      "id":432,
+      "name_category": "dewol",
+      "title":"432",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/432.webp",
+      "coin":1000
+    },
+    {
+      "id":433,
+      "name_category": "dewol",
+      "title":"433",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/433.webp",
+      "coin":1000
+    },
+    {
+      "id":434,
+      "name_category": "dewol",
+      "title":"434",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/434.webp",
+      "coin":1000
+    },
+    {
+      "id":435,
+      "name_category": "dewol",
+      "title":"435",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/435.webp",
+      "coin":1000
+    },
+    {
+      "id":436,
+      "name_category": "dewol",
+      "title":"436",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/436.webp",
+      "coin":1000
+    },
+    {
+      "id": 437,
+      "name_category": "dewol",
+      "title": "437",
+      "image": "https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/437.webp",
+      "coin":1000
+    },
+    {
+      "id":438,
+      "name_category": "dewol",
+      "title":"438",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/438.webp",
+      "coin":1000
+    },
+    {
+      "id":439,
+      "name_category": "dewol",
+      "title":"439",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/439.webp",
+      "coin":1000
+    },
+    {
+      "id":440,
+      "name_category": "dewol",
+      "title":"440",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/440.webp",
+      "coin":1000
+    },
+    {
+      "id":441,
+      "name_category": "dewol",
+      "title":"441",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/441.webp",
+      "coin":1000
+    },
+    {
+      "id":442,
+      "name_category": "dewol",
+      "title":"442",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/442.webp",
+      "coin":1000
+    },
+    {
+      "id":443,
+      "name_category": "dewol",
+      "title":"443",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/443.webp",
+      "coin":1000
+    },
+    {
+      "id":444,
+      "name_category": "dewol",
+      "title":"444",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/444.webp",
+      "coin":1000
+    },
+    {
+      "id":445,
+      "name_category": "dewol",
+      "title":"445",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/445.webp",
+      "coin":1000
+    },
+    {
+      "id":446,
+      "name_category": "dewol",
+      "title":"446",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/446.webp",
+      "coin":1000
+    },
+    {
+      "id": 447,
+      "name_category": "dewol",
+      "title": "447",
+      "image": "https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/447.webp",
+      "coin":1000
+    },
+    {
+      "id":448,
+      "name_category": "dewol",
+      "title":"448",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/448.webp",
+      "coin":1000
+    },
+    {
+      "id":449,
+      "name_category": "dewol",
+      "title":"449",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/449.webp",
+      "coin":1000
+    },
+    {
+      "id":450,
+      "name_category": "dewol",
+      "title":"450",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/450.webp",
+      "coin":1000
+    },
+    {
+      "id":451,
+      "name_category": "dewol",
+      "title":"451",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/451.webp",
+      "coin":1000
+    },
+    {
+      "id":452,
+      "name_category": "dewol",
+      "title":"452",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/452.webp",
+      "coin":1000
+    },
+    {
+      "id":453,
+      "name_category": "dewol",
+      "title":"453",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/453.webp",
+      "coin":1000
+    },
+    {
+      "id":454,
+      "name_category": "dewol",
+      "title":"454",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/454.webp",
+      "coin":1000
+    },
+    {
+      "id":455,
+      "name_category": "dewol",
+      "title":"455",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/455.webp",
+      "coin":1000
+    },
+    {
+      "id":456,
+      "name_category": "dewol",
+      "title":"456",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/456.webp",
+      "coin":1000
+    },
+    {
+      "id": 457,
+      "name_category": "dewol",
+      "title": "457",
+      "image": "https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/457.webp",
+      "coin":1000
+    },
+    {
+      "id":458,
+      "name_category": "dewol",
+      "title":"458",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/458.webp",
+      "coin":1000
+    },
+    {
+      "id":459,
+      "name_category": "dewol",
+      "title":"459",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/459.webp",
+      "coin":1000
+    },
+    {
+      "id":460,
+      "name_category": "dewol",
+      "title":"460",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/460.webp",
+      "coin":1000
+    },
+    {
+      "id":461,
+      "name_category": "dewol",
+      "title":"461",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/461.webp",
+      "coin":1000
+    },
+    {
+      "id":462,
+      "name_category": "dewol",
+      "title":"462",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/462.webp",
+      "coin":1000
+    },
+    {
+      "id":463,
+      "name_category": "dewol",
+      "title":"463",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/463.webp",
+      "coin":1000
+    },
+    {
+      "id":464,
+      "name_category": "dewol",
+      "title":"464",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/464.webp",
+      "coin":1000
+    },
+    {
+      "id":465,
+      "name_category": "dewol",
+      "title":"465",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/465.webp",
+      "coin":1000
+    },
+    {
+      "id":466,
+      "name_category": "dewol",
+      "title":"466",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/466.webp",
+      "coin":1000
+    },
+    {
+      "id": 467,
+      "name_category": "dewol",
+      "title": "467",
+      "image": "https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/467.webp",
+      "coin":1000
+    },
+    {
+      "id":468,
+      "name_category": "dewol",
+      "title":"468",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/468.webp",
+      "coin":1000
+    },
+    {
+      "id":469,
+      "name_category": "dewol",
+      "title":"469",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/469.webp",
+      "coin":1000
+    },
+    {
+      "id":470,
+      "name_category": "dewol",
+      "title":"470",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/470.webp",
+      "coin":1000
+    },
+    {
+      "id":471,
+      "name_category": "dewol",
+      "title":"471",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/471.webp",
+      "coin":1000
+    },
+    {
+      "id":472,
+      "name_category": "dewol",
+      "title":"472",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/472.webp",
+      "coin":1000
+    },
+    {
+      "id":473,
+      "name_category": "dewol",
+      "title":"473",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/473.webp",
+      "coin":1000
+    },
+    {
+      "id":474,
+      "name_category": "dewol",
+      "title":"474",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/474.webp",
+      "coin":1000
+    },
+    {
+      "id":475,
+      "name_category": "dewol",
+      "title":"475",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/475.webp",
+      "coin":1000
+    },
+    {
+      "id":476,
+      "name_category": "dewol",
+      "title":"476",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/476.webp",
+      "coin":1000
+    },
+    {
+      "id": 477,
+      "name_category": "dewol",
+      "title": "477",
+      "image": "https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/477.webp",
+      "coin":1000
+    },
+    {
+      "id":478,
+      "name_category": "dewol",
+      "title":"478",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/478.webp",
+      "coin":1000
+    },
+    {
+      "id":479,
+      "name_category": "dewol",
+      "title":"479",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/479.webp",
+      "coin":1000
+    },
+    {
+      "id":480,
+      "name_category": "dewol",
+      "title":"480",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/480.webp",
+      "coin":1000
+    },
+    {
+      "id":481,
+      "name_category": "dewol",
+      "title":"481",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/481.webp",
+      "coin":1000
+    },
+    {
+      "id":482,
+      "name_category": "dewol",
+      "title":"482",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/482.webp",
+      "coin":1000
+    },
+    {
+      "id":483,
+      "name_category": "dewol",
+      "title":"483",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/483.webp",
+      "coin":1000
+    },
+    {
+      "id":484,
+      "name_category": "dewol",
+      "title":"484",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/484.webp",
+      "coin":1000
+    },
+    {
+      "id":485,
+      "name_category": "dewol",
+      "title":"485",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/485.webp",
+      "coin":1000
+    },
+    {
+      "id":486,
+      "name_category": "dewol",
+      "title":"486",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/486.webp",
+      "coin":1000
+    },
+    {
+      "id": 487,
+      "name_category": "dewol",
+      "title": "487",
+      "image": "https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/487.webp",
+      "coin":1000
+    },
+    {
+      "id":488,
+      "name_category": "dewol",
+      "title":"488",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/488.webp",
+      "coin":1000
+    },
+    {
+      "id":489,
+      "name_category": "dewol",
+      "title":"489",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/489.webp",
+      "coin":1000
+    },
+    {
+      "id":490,
+      "name_category": "dewol",
+      "title":"490",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/490.webp",
+      "coin":1000
+    },
+    {
+      "id":491,
+      "name_category": "dewol",
+      "title":"491",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/491.webp",
+      "coin":1000
+    },
+    {
+      "id":492,
+      "name_category": "dewol",
+      "title":"492",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/492.webp",
+      "coin":1000
+    },
+    {
+      "id":493,
+      "name_category": "dewol",
+      "title":"493",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/493.webp",
+      "coin":1000
+    },
+    {
+      "id":494,
+      "name_category": "dewol",
+      "title":"494",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/494.webp",
+      "coin":1000
+    },
+    {
+      "id":495,
+      "name_category": "dewol",
+      "title":"495",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/495.webp",
+      "coin":1000
+    },
+    {
+      "id":496,
+      "name_category": "dewol",
+      "title":"496",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/496.webp",
+      "coin":1000
+    },
+    {
+      "id": 497,
+      "name_category": "dewol",
+      "title": "497",
+      "image": "https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/497.webp",
+      "coin":1000
+    },
+    {
+      "id":498,
+      "name_category": "dewol",
+      "title":"498",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/498.webp",
+      "coin":1000
+    },
+    {
+      "id":499,
+      "name_category": "dewol",
+      "title":"499",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/499.webp",
+      "coin":1000
+    },
+    {
+      "id":500,
+      "name_category": "dewol",
+      "title":"500",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/500.webp",
+      "coin":1000
+    },
+    {
+      "id":501,
+      "name_category": "dewol",
+      "title":"501",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/501.webp",
+      "coin":1000
+    },
+    {
+      "id":502,
+      "name_category": "dewol",
+      "title":"502",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/502.webp",
+      "coin":1000
+    },
+    {
+      "id":503,
+      "name_category": "dewol",
+      "title":"503",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/503.webp",
+      "coin":1000
+    },
+    {
+      "id":504,
+      "name_category": "dewol",
+      "title":"504",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/504.webp",
+      "coin":1000
+    },
+    {
+      "id":505,
+      "name_category": "dewol",
+      "title":"505",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/505.webp",
+      "coin":1000
+    },
+    {
+      "id":506,
+      "name_category": "dewol",
+      "title":"506",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/506.webp",
+      "coin":1000
+    },
+    {
+      "id": 507,
+      "name_category": "dewol",
+      "title": "507",
+      "image": "https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/507.webp",
+      "coin":1000
+    },
+    {
+      "id":508,
+      "name_category": "dewol",
+      "title":"508",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/508.webp",
+      "coin":1000
+    },
+    {
+      "id":509,
+      "name_category": "dewol",
+      "title":"509",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/509.webp",
+      "coin":1000
+    },
+    {
+      "id":510,
+      "name_category": "dewol",
+      "title":"510",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/510.webp",
+      "coin":1000
+    },
+    {
+      "id":511,
+      "name_category": "dewol",
+      "title":"511",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/511.webp",
+      "coin":1000
+    },
+    {
+      "id":512,
+      "name_category": "dewol",
+      "title":"512",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/512.webp",
+      "coin":1000
+    },
+    {
+      "id":513,
+      "name_category": "dewol",
+      "title":"513",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/513.webp",
+      "coin":1000
+    },
+    {
+      "id":514,
+      "name_category": "dewol",
+      "title":"514",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/514.webp",
+      "coin":1000
+    }
+	##=====##
+	,
+    {
+      "id":515,
+      "name_category": "dewol",
+      "title":"515",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/515.webp",
+      "coin":1000
+    },
+    {
+      "id":516,
+      "name_category": "dewol",
+      "title":"516",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/516.webp",
+      "coin":1000
+    },
+    {
+      "id":517,
+      "name_category": "dewol",
+      "title":"517",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/517.webp",
+      "coin":1000
+    },
+    {
+      "id":518,
+      "name_category": "dewol",
+      "title":"518",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/518.webp",
+      "coin":1000
+    },
+    {
+      "id":519,
+      "name_category": "dewol",
+      "title":"519",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/519.webp",
+      "coin":1000
+    },
+    {
+      "id":520,
+      "name_category": "dewol",
+      "title":"520",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/520.webp",
+      "coin":1000
+    },
+    {
+      "id":521,
+      "name_category": "dewol",
+      "title":"521",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/521.webp",
+      "coin":1000
+    },
+    {
+      "id":522,
+      "name_category": "dewol",
+      "title":"522",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/522.webp",
+      "coin":1000
+    },
+    {
+      "id":523,
+      "name_category": "dewol",
+      "title":"523",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/523.webp",
+      "coin":1000
+    },
+    {
+      "id":524,
+      "name_category": "dewol",
+      "title":"524",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/524.webp",
+      "coin":1000
+    },
+    {
+      "id":525,
+      "name_category": "dewol",
+      "title":"525",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/525.webp",
+      "coin":1000
+    },
+    {
+      "id":526,
+      "name_category": "dewol",
+      "title":"526",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/526.webp",
+      "coin":1000
+    },
+    {
+      "id":527,
+      "name_category": "dewol",
+      "title":"527",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/527.webp",
+      "coin":1000
+    },
+    {
+      "id":528,
+      "name_category": "dewol",
+      "title":"528",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/528.webp",
+      "coin":1000
+    },
+    {
+      "id":529,
+      "name_category": "dewol",
+      "title":"529",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/529.webp",
+      "coin":1000
+    },
+    {
+      "id":530,
+      "name_category": "dewol",
+      "title":"530",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/530.webp",
+      "coin":1000
+    },
+    {
+      "id":531,
+      "name_category": "dewol",
+      "title":"531",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/531.webp",
+      "coin":1000
+    },
+    {
+      "id":532,
+      "name_category": "dewol",
+      "title":"532",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/532.webp",
+      "coin":1000
+    },
+    {
+      "id":533,
+      "name_category": "dewol",
+      "title":"533",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/533.webp",
+      "coin":1000
+    },
+    {
+      "id":534,
+      "name_category": "dewol",
+      "title":"534",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/534.webp",
+      "coin":1000
+    },
+    {
+      "id":535,
+      "name_category": "dewol",
+      "title":"535",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/535.webp",
+      "coin":1000
+    },
+    {
+      "id":536,
+      "name_category": "dewol",
+      "title":"536",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/536.webp",
+      "coin":1000
+    },
+    {
+      "id":537,
+      "name_category": "dewol",
+      "title":"537",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/537.webp",
+      "coin":1000
+    },
+    {
+      "id":538,
+      "name_category": "dewol",
+      "title":"538",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/538.webp",
+      "coin":1000
+    },
+    {
+      "id":539,
+      "name_category": "dewol",
+      "title":"539",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/539.webp",
+      "coin":1000
+    },
+    {
+      "id":540,
+      "name_category": "dewol",
+      "title":"540",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/540.webp",
+      "coin":1000
+    },
+    {
+      "id":541,
+      "name_category": "dewol",
+      "title":"541",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/541.webp",
+      "coin":1000
+    },
+    {
+      "id":542,
+      "name_category": "dewol",
+      "title":"542",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/542.webp",
+      "coin":1000
+    },
+    {
+      "id":543,
+      "name_category": "dewol",
+      "title":"543",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/543.webp",
+      "coin":1000
+    },
+    {
+      "id":544,
+      "name_category": "dewol",
+      "title":"544",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/544.webp",
+      "coin":1000
+    },
+    {
+      "id":545,
+      "name_category": "dewol",
+      "title":"545",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/545.webp",
+      "coin":1000
+    },
+    {
+      "id":546,
+      "name_category": "dewol",
+      "title":"546",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/546.webp",
+      "coin":1000
+    },
+    {
+      "id":547,
+      "name_category": "dewol",
+      "title":"547",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/547.webp",
+      "coin":1000
+    },
+    {
+      "id":548,
+      "name_category": "dewol",
+      "title":"548",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/548.webp",
+      "coin":1000
+    },
+    {
+      "id":549,
+      "name_category": "dewol",
+      "title":"549",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/549.webp",
+      "coin":1000
+    },
+    {
+      "id":550,
+      "name_category": "dewol",
+      "title":"550",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/550.webp",
+      "coin":1000
+    },
+    {
+      "id":551,
+      "name_category": "dewol",
+      "title":"551",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/551.webp",
+      "coin":1000
+    },
+    {
+      "id":552,
+      "name_category": "dewol",
+      "title":"552",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/552.webp",
+      "coin":1000
+    },
+    {
+      "id":553,
+      "name_category": "dewol",
+      "title":"553",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/553.webp",
+      "coin":1000
+    },
+    {
+      "id":554,
+      "name_category": "dewol",
+      "title":"554",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/554.webp",
+      "coin":1000
+    },
+    {
+      "id":555,
+      "name_category": "dewol",
+      "title":"555",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/555.webp",
+      "coin":1000
+    },
+    {
+      "id":556,
+      "name_category": "dewol",
+      "title":"556",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/556.webp",
+      "coin":1000
+    },
+    {
+      "id":557,
+      "name_category": "dewol",
+      "title":"557",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/557.webp",
+      "coin":1000
+    },
+    {
+      "id":558,
+      "name_category": "dewol",
+      "title":"558",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/558.webp",
+      "coin":1000
+    },
+    {
+      "id":559,
+      "name_category": "dewol",
+      "title":"559",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/559.webp",
+      "coin":1000
+    },
+    {
+      "id":560,
+      "name_category": "dewol",
+      "title":"560",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/560.webp",
+      "coin":1000
+    },
+    {
+      "id":561,
+      "name_category": "dewol",
+      "title":"561",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/561.webp",
+      "coin":1000
+    },
+    {
+      "id":562,
+      "name_category": "dewol",
+      "title":"562",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/562.webp",
+      "coin":1000
+    },
+    {
+      "id":563,
+      "name_category": "dewol",
+      "title":"563",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/563.webp",
+      "coin":1000
+    },
+    {
+      "id":564,
+      "name_category": "dewol",
+      "title":"564",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/564.webp",
+      "coin":1000
+    },
+    {
+      "id":565,
+      "name_category": "dewol",
+      "title":"565",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/565.webp",
+      "coin":1000
+    },
+    {
+      "id":566,
+      "name_category": "dewol",
+      "title":"566",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/566.webp",
+      "coin":1000
+    },
+    {
+      "id":567,
+      "name_category": "dewol",
+      "title":"567",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/567.webp",
+      "coin":1000
+    },
+    {
+      "id":568,
+      "name_category": "dewol",
+      "title":"568",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/568.webp",
+      "coin":1000
+    },
+    {
+      "id":569,
+      "name_category": "dewol",
+      "title":"569",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/569.webp",
+      "coin":1000
+    },
+    {
+      "id":570,
+      "name_category": "dewol",
+      "title":"570",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/570.webp",
+      "coin":1000
+    },
+    {
+      "id":571,
+      "name_category": "dewol",
+      "title":"571",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/571.webp",
+      "coin":1000
+    },
+    {
+      "id":572,
+      "name_category": "dewol",
+      "title":"572",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/572.webp",
+      "coin":1000
+    },
+    {
+      "id":573,
+      "name_category": "dewol",
+      "title":"573",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/573.webp",
+      "coin":1000
+    },
+    {
+      "id":574,
+      "name_category": "dewol",
+      "title":"574",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/574.webp",
+      "coin":1000
+    },
+    {
+      "id":575,
+      "name_category": "dewol",
+      "title":"575",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/575.webp",
+      "coin":1000
+    },
+    {
+      "id":576,
+      "name_category": "dewol",
+      "title":"576",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/576.webp",
+      "coin":1000
+    },
+    {
+      "id":577,
+      "name_category": "dewol",
+      "title":"577",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/577.webp",
+      "coin":1000
+    },
+    {
+      "id":578,
+      "name_category": "dewol",
+      "title":"578",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/578.webp",
+      "coin":1000
+    },
+    {
+      "id":579,
+      "name_category": "dewol",
+      "title":"579",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/579.webp",
+      "coin":1000
+    },
+    {
+      "id":580,
+      "name_category": "dewol",
+      "title":"580",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/580.webp",
+      "coin":1000
+    },
+    {
+      "id":581,
+      "name_category": "dewol",
+      "title":"581",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/581.webp",
+      "coin":1000
+    },
+    {
+      "id":582,
+      "name_category": "dewol",
+      "title":"582",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/582.webp",
+      "coin":1000
+    },
+    {
+      "id":583,
+      "name_category": "dewol",
+      "title":"583",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/583.webp",
+      "coin":1000
+    },
+    {
+      "id":584,
+      "name_category": "dewol",
+      "title":"584",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/584.webp",
+      "coin":1000
+    },
+    {
+      "id":585,
+      "name_category": "dewol",
+      "title":"585",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/585.webp",
+      "coin":1000
+    },
+    {
+      "id":586,
+      "name_category": "dewol",
+      "title":"586",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/586.webp",
+      "coin":1000
+    },
+    {
+      "id":587,
+      "name_category": "dewol",
+      "title":"587",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/587.webp",
+      "coin":1000
+    },
+    {
+      "id":588,
+      "name_category": "dewol",
+      "title":"588",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/588.webp",
+      "coin":1000
+    },
+    {
+      "id":589,
+      "name_category": "dewol",
+      "title":"589",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/589.webp",
+      "coin":1000
+    },
+    {
+      "id":590,
+      "name_category": "dewol",
+      "title":"590",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/590.webp",
+      "coin":1000
+    },
+    {
+      "id":591,
+      "name_category": "dewol",
+      "title":"591",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/591.webp",
+      "coin":1000
+    },
+    {
+      "id":592,
+      "name_category": "dewol",
+      "title":"592",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/592.webp",
+      "coin":1000
+    },
+    {
+      "id":593,
+      "name_category": "dewol",
+      "title":"593",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/593.webp",
+      "coin":1000
+    },
+    {
+      "id":594,
+      "name_category": "dewol",
+      "title":"594",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/594.webp",
+      "coin":1000
+    },
+    {
+      "id":595,
+      "name_category": "dewol",
+      "title":"595",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/595.webp",
+      "coin":1000
+    },
+    {
+      "id":596,
+      "name_category": "dewol",
+      "title":"596",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/596.webp",
+      "coin":1000
+    },
+    {
+      "id":597,
+      "name_category": "dewol",
+      "title":"597",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/597.webp",
+      "coin":1000
+    },
+    {
+      "id":598,
+      "name_category": "dewol",
+      "title":"598",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/598.webp",
+      "coin":1000
+    },
+    {
+      "id":599,
+      "name_category": "dewol",
+      "title":"599",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/599.webp",
+      "coin":1000
+    },
+    {
+      "id":600,
+      "name_category": "dewol",
+      "title":"600",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/600.webp",
+      "coin":1000
+    },
+    {
+      "id":601,
+      "name_category": "dewol",
+      "title":"601",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/601.webp",
+      "coin":1000
+    },
+    {
+      "id":602,
+      "name_category": "dewol",
+      "title":"602",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/602.webp",
+      "coin":1000
+    },
+    {
+      "id":603,
+      "name_category": "dewol",
+      "title":"603",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/603.webp",
+      "coin":1000
+    },
+    {
+      "id":604,
+      "name_category": "dewol",
+      "title":"604",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/604.webp",
+      "coin":1000
+    },
+    {
+      "id":605,
+      "name_category": "dewol",
+      "title":"605",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/605.webp",
+      "coin":1000
+    },
+    {
+      "id":606,
+      "name_category": "dewol",
+      "title":"606",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/606.webp",
+      "coin":1000
+    },
+    {
+      "id":607,
+      "name_category": "dewol",
+      "title":"607",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/607.webp",
+      "coin":1000
+    },
+    {
+      "id":608,
+      "name_category": "dewol",
+      "title":"608",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/608.webp",
+      "coin":1000
+    },
+    {
+      "id":609,
+      "name_category": "dewol",
+      "title":"609",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/609.webp",
+      "coin":1000
+    },
+    {
+      "id":610,
+      "name_category": "dewol",
+      "title":"610",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/610.webp",
+      "coin":1000
+    },
+    {
+      "id":611,
+      "name_category": "dewol",
+      "title":"611",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/611.webp",
+      "coin":1000
+    },
+    {
+      "id":612,
+      "name_category": "dewol",
+      "title":"612",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/612.webp",
+      "coin":1000
+    },
+    {
+      "id":613,
+      "name_category": "dewol",
+      "title":"613",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/613.webp",
+      "coin":1000
+    },
+    {
+      "id":614,
+      "name_category": "dewol",
+      "title":"614",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/614.webp",
+      "coin":1000
+    },
+    {
+      "id":615,
+      "name_category": "dewol",
+      "title":"615",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/615.webp",
+      "coin":1000
+    },
+    {
+      "id":616,
+      "name_category": "dewol",
+      "title":"616",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/616.webp",
+      "coin":1000
+    },
+    {
+      "id":617,
+      "name_category": "dewol",
+      "title":"617",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/617.webp",
+      "coin":1000
+    },
+    {
+      "id":618,
+      "name_category": "dewol",
+      "title":"618",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/618.webp",
+      "coin":1000
+    },
+    {
+      "id":619,
+      "name_category": "dewol",
+      "title":"619",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/619.webp",
+      "coin":1000
+    },
+    {
+      "id":620,
+      "name_category": "dewol",
+      "title":"620",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/620.webp",
+      "coin":1000
+    },
+    {
+      "id":621,
+      "name_category": "dewol",
+      "title":"621",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/621.webp",
+      "coin":1000
+    },
+    {
+      "id":622,
+      "name_category": "dewol",
+      "title":"622",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/622.webp",
+      "coin":1000
+    },
+    {
+      "id":623,
+      "name_category": "dewol",
+      "title":"623",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/623.webp",
+      "coin":1000
+    },
+    {
+      "id":624,
+      "name_category": "dewol",
+      "title":"624",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/624.webp",
+      "coin":1000
+    },
+    {
+      "id":625,
+      "name_category": "dewol",
+      "title":"625",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/625.webp",
+      "coin":1000
+    },
+    {
+      "id":626,
+      "name_category": "dewol",
+      "title":"626",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/626.webp",
+      "coin":1000
+    },
+    {
+      "id":627,
+      "name_category": "dewol",
+      "title":"627",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/627.webp",
+      "coin":1000
+    },
+    {
+      "id":628,
+      "name_category": "dewol",
+      "title":"628",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/628.webp",
+      "coin":1000
+    },
+    {
+      "id":629,
+      "name_category": "dewol",
+      "title":"629",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/629.webp",
+      "coin":1000
+    },
+    {
+      "id":630,
+      "name_category": "dewol",
+      "title":"630",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/630.webp",
+      "coin":1000
+    },
+    {
+      "id":631,
+      "name_category": "dewol",
+      "title":"631",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/631.webp",
+      "coin":1000
+    },
+    {
+      "id":632,
+      "name_category": "dewol",
+      "title":"632",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/632.webp",
+      "coin":1000
+    },
+    {
+      "id":633,
+      "name_category": "dewol",
+      "title":"633",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/633.webp",
+      "coin":1000
+    },
+    {
+      "id":634,
+      "name_category": "dewol",
+      "title":"634",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/634.webp",
+      "coin":1000
+    },
+    {
+      "id":635,
+      "name_category": "dewol",
+      "title":"635",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/635.webp",
+      "coin":1000
+    },
+    {
+      "id":636,
+      "name_category": "dewol",
+      "title":"636",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/636.webp",
+      "coin":1000
+    },
+    {
+      "id":637,
+      "name_category": "dewol",
+      "title":"637",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/637.webp",
+      "coin":1000
+    },
+    {
+      "id":638,
+      "name_category": "dewol",
+      "title":"638",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/638.webp",
+      "coin":1000
+    },
+    {
+      "id":639,
+      "name_category": "dewol",
+      "title":"639",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/639.webp",
+      "coin":1000
+    },
+    {
+      "id":640,
+      "name_category": "dewol",
+      "title":"640",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/640.webp",
+      "coin":1000
+    },
+    {
+      "id":641,
+      "name_category": "dewol",
+      "title":"641",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/641.webp",
+      "coin":1000
+    },
+    {
+      "id":642,
+      "name_category": "dewol",
+      "title":"642",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/642.webp",
+      "coin":1000
+    },
+    {
+      "id":643,
+      "name_category": "dewol",
+      "title":"643",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/643.webp",
+      "coin":1000
+    },
+    {
+      "id":644,
+      "name_category": "dewol",
+      "title":"644",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/644.webp",
+      "coin":1000
+    },
+    {
+      "id":645,
+      "name_category": "dewol",
+      "title":"645",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/645.webp",
+      "coin":1000
+    },
+    {
+      "id":646,
+      "name_category": "dewol",
+      "title":"646",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/646.webp",
+      "coin":1000
+    },
+    {
+      "id":647,
+      "name_category": "dewol",
+      "title":"647",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/647.webp",
+      "coin":1000
+    },
+    {
+      "id":648,
+      "name_category": "dewol",
+      "title":"648",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/648.webp",
+      "coin":1000
+    },
+    {
+      "id":649,
+      "name_category": "dewol",
+      "title":"649",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/649.webp",
+      "coin":1000
+    },
+    {
+      "id":650,
+      "name_category": "dewol",
+      "title":"650",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/650.webp",
+      "coin":1000
+    },
+    {
+      "id":651,
+      "name_category": "dewol",
+      "title":"651",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/651.webp",
+      "coin":1000
+    },
+    {
+      "id":652,
+      "name_category": "dewol",
+      "title":"652",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/652.webp",
+      "coin":1000
+    },
+    {
+      "id":653,
+      "name_category": "dewol",
+      "title":"653",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/653.webp",
+      "coin":1000
+    },
+    {
+      "id":654,
+      "name_category": "dewol",
+      "title":"654",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/654.webp",
+      "coin":1000
+    },
+    {
+      "id":655,
+      "name_category": "dewol",
+      "title":"655",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/655.webp",
+      "coin":1000
+    },
+    {
+      "id":656,
+      "name_category": "dewol",
+      "title":"656",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/656.webp",
+      "coin":1000
+    },
+    {
+      "id":657,
+      "name_category": "dewol",
+      "title":"657",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/657.webp",
+      "coin":1000
+    },
+    {
+      "id":658,
+      "name_category": "dewol",
+      "title":"658",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/658.webp",
+      "coin":1000
+    },
+    {
+      "id":659,
+      "name_category": "dewol",
+      "title":"659",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/659.webp",
+      "coin":1000
+    },
+    {
+      "id":660,
+      "name_category": "dewol",
+      "title":"660",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/660.webp",
+      "coin":1000
+    },
+    {
+      "id":661,
+      "name_category": "dewol",
+      "title":"661",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/661.webp",
+      "coin":1000
+    },
+    {
+      "id":662,
+      "name_category": "dewol",
+      "title":"662",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/662.webp",
+      "coin":1000
+    },
+    {
+      "id":663,
+      "name_category": "dewol",
+      "title":"663",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/663.webp",
+      "coin":1000
+    },
+    {
+      "id":664,
+      "name_category": "dewol",
+      "title":"664",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/664.webp",
+      "coin":1000
+    },
+    {
+      "id":665,
+      "name_category": "dewol",
+      "title":"665",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/665.webp",
+      "coin":1000
+    },
+    {
+      "id":666,
+      "name_category": "dewol",
+      "title":"666",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/666.webp",
+      "coin":1000
+    },
+    {
+      "id":667,
+      "name_category": "dewol",
+      "title":"667",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/667.webp",
+      "coin":1000
+    },
+    {
+      "id":668,
+      "name_category": "dewol",
+      "title":"668",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/668.webp",
+      "coin":1000
+    },
+    {
+      "id":669,
+      "name_category": "dewol",
+      "title":"669",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/669.webp",
+      "coin":1000
+    },
+    {
+      "id":670,
+      "name_category": "dewol",
+      "title":"670",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/670.webp",
+      "coin":1000
+    },
+    {
+      "id":671,
+      "name_category": "dewol",
+      "title":"671",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/671.webp",
+      "coin":1000
+    },
+    {
+      "id":672,
+      "name_category": "dewol",
+      "title":"672",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/672.webp",
+      "coin":1000
+    },
+    {
+      "id":673,
+      "name_category": "dewol",
+      "title":"673",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/673.webp",
+      "coin":1000
+    },
+    {
+      "id":674,
+      "name_category": "dewol",
+      "title":"674",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/674.webp",
+      "coin":1000
+    },
+    {
+      "id":675,
+      "name_category": "dewol",
+      "title":"675",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/675.webp",
+      "coin":1000
+    },
+    {
+      "id":676,
+      "name_category": "dewol",
+      "title":"676",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/676.webp",
+      "coin":1000
+    },
+    {
+      "id":677,
+      "name_category": "dewol",
+      "title":"677",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/677.webp",
+      "coin":1000
+    },
+    {
+      "id":678,
+      "name_category": "dewol",
+      "title":"678",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/678.webp",
+      "coin":1000
+    },
+    {
+      "id":679,
+      "name_category": "dewol",
+      "title":"679",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/679.webp",
+      "coin":1000
+    },
+    {
+      "id":680,
+      "name_category": "dewol",
+      "title":"680",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/680.webp",
+      "coin":1000
+    },
+    {
+      "id":681,
+      "name_category": "dewol",
+      "title":"681",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/681.webp",
+      "coin":1000
+    },
+    {
+      "id":682,
+      "name_category": "dewol",
+      "title":"682",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/682.webp",
+      "coin":1000
+    },
+    {
+      "id":683,
+      "name_category": "dewol",
+      "title":"683",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/683.webp",
+      "coin":1000
+    },
+    {
+      "id":684,
+      "name_category": "dewol",
+      "title":"684",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/684.webp",
+      "coin":1000
+    },
+    {
+      "id":685,
+      "name_category": "dewol",
+      "title":"685",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/685.webp",
+      "coin":1000
+    },
+    {
+      "id":686,
+      "name_category": "dewol",
+      "title":"686",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/686.webp",
+      "coin":1000
+    },
+    {
+      "id":687,
+      "name_category": "dewol",
+      "title":"687",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/687.webp",
+      "coin":1000
+    },
+    {
+      "id":688,
+      "name_category": "dewol",
+      "title":"688",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/688.webp",
+      "coin":1000
+    },
+    {
+      "id":689,
+      "name_category": "dewol",
+      "title":"689",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/689.webp",
+      "coin":1000
+    },
+    {
+      "id":690,
+      "name_category": "dewol",
+      "title":"690",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/690.webp",
+      "coin":1000
+    },
+    {
+      "id":691,
+      "name_category": "dewol",
+      "title":"691",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/691.webp",
+      "coin":1000
+    },
+    {
+      "id":692,
+      "name_category": "dewol",
+      "title":"692",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/692.webp",
+      "coin":1000
+    },
+    {
+      "id":693,
+      "name_category": "dewol",
+      "title":"693",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/693.webp",
+      "coin":1000
+    },
+    {
+      "id":694,
+      "name_category": "dewol",
+      "title":"694",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/694.webp",
+      "coin":1000
+    },
+    {
+      "id":695,
+      "name_category": "dewol",
+      "title":"695",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/695.webp",
+      "coin":1000
+    },
+    {
+      "id":696,
+      "name_category": "dewol",
+      "title":"696",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/696.webp",
+      "coin":1000
+    },
+    {
+      "id":697,
+      "name_category": "dewol",
+      "title":"697",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/697.webp",
+      "coin":1000
+    },
+    {
+      "id":698,
+      "name_category": "dewol",
+      "title":"698",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/698.webp",
+      "coin":1000
+    },
+    {
+      "id":699,
+      "name_category": "dewol",
+      "title":"699",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/699.webp",
+      "coin":1000
+    },
+    {
+      "id":700,
+      "name_category": "dewol",
+      "title":"700",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/700.webp",
+      "coin":1000
+    },
+    {
+      "id":701,
+      "name_category": "dewol",
+      "title":"701",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/701.webp",
+      "coin":1000
+    },
+    {
+      "id":702,
+      "name_category": "dewol",
+      "title":"702",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/702.webp",
+      "coin":1000
+    },
+    {
+      "id":703,
+      "name_category": "dewol",
+      "title":"703",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/703.webp",
+      "coin":1000
+    },
+    {
+      "id":704,
+      "name_category": "dewol",
+      "title":"704",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/704.webp",
+      "coin":1000
+    },
+    {
+      "id":705,
+      "name_category": "dewol",
+      "title":"705",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/705.webp",
+      "coin":1000
+    },
+    {
+      "id":706,
+      "name_category": "dewol",
+      "title":"706",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/706.webp",
+      "coin":1000
+    },
+    {
+      "id":707,
+      "name_category": "dewol",
+      "title":"707",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/707.webp",
+      "coin":1000
+    },
+    {
+      "id":708,
+      "name_category": "dewol",
+      "title":"708",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/708.webp",
+      "coin":1000
+    },
+    {
+      "id":709,
+      "name_category": "dewol",
+      "title":"709",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/709.webp",
+      "coin":1000
+    },
+    {
+      "id":710,
+      "name_category": "dewol",
+      "title":"710",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/710.webp",
+      "coin":1000
+    },
+    {
+      "id":711,
+      "name_category": "dewol",
+      "title":"711",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/711.webp",
+      "coin":1000
+    },
+    {
+      "id":712,
+      "name_category": "dewol",
+      "title":"712",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/712.webp",
+      "coin":1000
+    },
+    {
+      "id":713,
+      "name_category": "dewol",
+      "title":"713",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/713.webp",
+      "coin":1000
+    },
+    {
+      "id":714,
+      "name_category": "dewol",
+      "title":"714",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/714.webp",
+      "coin":1000
+    },
+    {
+      "id":715,
+      "name_category": "dewol",
+      "title":"715",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/715.webp",
+      "coin":1000
+    },
+    {
+      "id":716,
+      "name_category": "dewol",
+      "title":"716",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/716.webp",
+      "coin":1000
+    },
+    {
+      "id":717,
+      "name_category": "dewol",
+      "title":"717",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/717.webp",
+      "coin":1000
+    },
+    {
+      "id":718,
+      "name_category": "dewol",
+      "title":"718",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/718.webp",
+      "coin":1000
+    },
+    {
+      "id":719,
+      "name_category": "dewol",
+      "title":"719",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/719.webp",
+      "coin":1000
+    },
+    {
+      "id":720,
+      "name_category": "dewol",
+      "title":"720",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/720.webp",
+      "coin":1000
+    },
+    {
+      "id":721,
+      "name_category": "dewol",
+      "title":"721",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/721.webp",
+      "coin":1000
+    },
+    {
+      "id":722,
+      "name_category": "dewol",
+      "title":"722",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/722.webp",
+      "coin":1000
+    },
+    {
+      "id":723,
+      "name_category": "dewol",
+      "title":"723",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/723.webp",
+      "coin":1000
+    },
+    {
+      "id":724,
+      "name_category": "dewol",
+      "title":"724",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/724.webp",
+      "coin":1000
+    },
+    {
+      "id":725,
+      "name_category": "dewol",
+      "title":"725",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/725.webp",
+      "coin":1000
+    },
+    {
+      "id":726,
+      "name_category": "dewol",
+      "title":"726",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/726.webp",
+      "coin":1000
+    },
+    {
+      "id":727,
+      "name_category": "dewol",
+      "title":"727",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/727.webp",
+      "coin":1000
+    },
+    {
+      "id":728,
+      "name_category": "dewol",
+      "title":"728",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/728.webp",
+      "coin":1000
+    },
+    {
+      "id":729,
+      "name_category": "dewol",
+      "title":"729",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/729.webp",
+      "coin":1000
+    },
+    {
+      "id":730,
+      "name_category": "dewol",
+      "title":"730",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/730.webp",
+      "coin":1000
+    },
+    {
+      "id":731,
+      "name_category": "dewol",
+      "title":"731",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/731.webp",
+      "coin":1000
+    },
+    {
+      "id":732,
+      "name_category": "dewol",
+      "title":"732",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/732.webp",
+      "coin":1000
+    },
+    {
+      "id":733,
+      "name_category": "dewol",
+      "title":"733",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/733.webp",
+      "coin":1000
+    },
+    {
+      "id":734,
+      "name_category": "dewol",
+      "title":"734",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/734.webp",
+      "coin":1000
+    },
+    {
+      "id":735,
+      "name_category": "dewol",
+      "title":"735",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/735.webp",
+      "coin":1000
+    },
+    {
+      "id":736,
+      "name_category": "dewol",
+      "title":"736",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/736.webp",
+      "coin":1000
+    },
+    {
+      "id":737,
+      "name_category": "dewol",
+      "title":"737",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/737.webp",
+      "coin":1000
+    },
+    {
+      "id":738,
+      "name_category": "dewol",
+      "title":"738",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/738.webp",
+      "coin":1000
+    },
+    {
+      "id":739,
+      "name_category": "dewol",
+      "title":"739",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/739.webp",
+      "coin":1000
+    },
+    {
+      "id":740,
+      "name_category": "dewol",
+      "title":"740",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/740.webp",
+      "coin":1000
+    },
+    {
+      "id":741,
+      "name_category": "dewol",
+      "title":"741",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/741.webp",
+      "coin":1000
+    },
+    {
+      "id":742,
+      "name_category": "dewol",
+      "title":"742",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/742.webp",
+      "coin":1000
+    },
+    {
+      "id":743,
+      "name_category": "dewol",
+      "title":"743",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/743.webp",
+      "coin":1000
+    },
+    {
+      "id":744,
+      "name_category": "dewol",
+      "title":"744",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/744.webp",
+      "coin":1000
+    },
+    {
+      "id":745,
+      "name_category": "dewol",
+      "title":"745",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/745.webp",
+      "coin":1000
+    },
+    {
+      "id":746,
+      "name_category": "dewol",
+      "title":"746",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/746.webp",
+      "coin":1000
+    },
+    {
+      "id":747,
+      "name_category": "dewol",
+      "title":"747",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/747.webp",
+      "coin":1000
+    },
+    {
+      "id":748,
+      "name_category": "dewol",
+      "title":"748",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/748.webp",
+      "coin":1000
+    },
+    {
+      "id":749,
+      "name_category": "dewol",
+      "title":"749",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/749.webp",
+      "coin":1000
+    },
+    {
+      "id":750,
+      "name_category": "dewol",
+      "title":"750",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/750.webp",
+      "coin":1000
+    },
+    {
+      "id":751,
+      "name_category": "dewol",
+      "title":"751",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/751.webp",
+      "coin":1000
+    },
+    {
+      "id":752,
+      "name_category": "dewol",
+      "title":"752",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/752.webp",
+      "coin":1000
+    },
+    {
+      "id":753,
+      "name_category": "dewol",
+      "title":"753",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/753.webp",
+      "coin":1000
+    },
+    {
+      "id":754,
+      "name_category": "dewol",
+      "title":"754",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/754.webp",
+      "coin":1000
+    },
+    {
+      "id":755,
+      "name_category": "dewol",
+      "title":"755",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/755.webp",
+      "coin":1000
+    },
+    {
+      "id":756,
+      "name_category": "dewol",
+      "title":"756",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/756.webp",
+      "coin":1000
+    },
+    {
+      "id":757,
+      "name_category": "dewol",
+      "title":"757",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/757.webp",
+      "coin":1000
+    },
+    {
+      "id":758,
+      "name_category": "dewol",
+      "title":"758",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/758.webp",
+      "coin":1000
+    },
+    {
+      "id":759,
+      "name_category": "dewol",
+      "title":"759",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/759.webp",
+      "coin":1000
+    },
+    {
+      "id":760,
+      "name_category": "dewol",
+      "title":"760",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/760.webp",
+      "coin":1000
+    },
+    {
+      "id":761,
+      "name_category": "dewol",
+      "title":"761",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/761.webp",
+      "coin":1000
+    },
+    {
+      "id":762,
+      "name_category": "dewol",
+      "title":"762",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/762.webp",
+      "coin":1000
+    },
+    {
+      "id":763,
+      "name_category": "dewol",
+      "title":"763",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/763.webp",
+      "coin":1000
+    },
+    {
+      "id":764,
+      "name_category": "dewol",
+      "title":"764",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/764.webp",
+      "coin":1000
+    },
+    {
+      "id":765,
+      "name_category": "dewol",
+      "title":"765",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/765.webp",
+      "coin":1000
+    },
+    {
+      "id":766,
+      "name_category": "dewol",
+      "title":"766",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/766.webp",
+      "coin":1000
+    },
+    {
+      "id":767,
+      "name_category": "dewol",
+      "title":"767",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/767.webp",
+      "coin":1000
+    },
+    {
+      "id":768,
+      "name_category": "dewol",
+      "title":"768",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/768.webp",
+      "coin":1000
+    },
+    {
+      "id":769,
+      "name_category": "dewol",
+      "title":"769",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/769.webp",
+      "coin":1000
+    },
+    {
+      "id":770,
+      "name_category": "dewol",
+      "title":"770",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/770.webp",
+      "coin":1000
+    },
+    {
+      "id":771,
+      "name_category": "dewol",
+      "title":"771",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/771.webp",
+      "coin":1000
+    },
+    {
+      "id":772,
+      "name_category": "dewol",
+      "title":"772",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/772.webp",
+      "coin":1000
+    },
+    {
+      "id":773,
+      "name_category": "dewol",
+      "title":"773",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/773.webp",
+      "coin":1000
+    },
+    {
+      "id":774,
+      "name_category": "dewol",
+      "title":"774",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/774.webp",
+      "coin":1000
+    },
+    {
+      "id":775,
+      "name_category": "dewol",
+      "title":"775",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/775.webp",
+      "coin":1000
+    },
+    {
+      "id":776,
+      "name_category": "dewol",
+      "title":"776",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/776.webp",
+      "coin":1000
+    },
+    {
+      "id":777,
+      "name_category": "dewol",
+      "title":"777",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/777.webp",
+      "coin":1000
+    },
+    {
+      "id":778,
+      "name_category": "dewol",
+      "title":"778",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/778.webp",
+      "coin":1000
+    },
+    {
+      "id":779,
+      "name_category": "dewol",
+      "title":"779",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/779.webp",
+      "coin":1000
+    },
+    {
+      "id":780,
+      "name_category": "dewol",
+      "title":"780",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/780.webp",
+      "coin":1000
+    },
+    {
+      "id":781,
+      "name_category": "dewol",
+      "title":"781",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/781.webp",
+      "coin":1000
+    },
+    {
+      "id":782,
+      "name_category": "dewol",
+      "title":"782",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/782.webp",
+      "coin":1000
+    },
+    {
+      "id":783,
+      "name_category": "dewol",
+      "title":"783",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/783.webp",
+      "coin":1000
+    },
+    {
+      "id":784,
+      "name_category": "dewol",
+      "title":"784",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/784.webp",
+      "coin":1000
+    },
+    {
+      "id":785,
+      "name_category": "dewol",
+      "title":"785",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/785.webp",
+      "coin":1000
+    },
+    {
+      "id":786,
+      "name_category": "dewol",
+      "title":"786",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/786.webp",
+      "coin":1000
+    },
+    {
+      "id":787,
+      "name_category": "dewol",
+      "title":"787",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/787.webp",
+      "coin":1000
+    },
+    {
+      "id":788,
+      "name_category": "dewol",
+      "title":"788",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/788.webp",
+      "coin":1000
+    },
+    {
+      "id":789,
+      "name_category": "dewol",
+      "title":"789",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/789.webp",
+      "coin":1000
+    },
+    {
+      "id":790,
+      "name_category": "dewol",
+      "title":"790",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/790.webp",
+      "coin":1000
+    },
+    {
+      "id":791,
+      "name_category": "dewol",
+      "title":"791",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/791.webp",
+      "coin":1000
+    },
+    {
+      "id":792,
+      "name_category": "dewol",
+      "title":"792",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/792.webp",
+      "coin":1000
+    },
+    {
+      "id":793,
+      "name_category": "dewol",
+      "title":"793",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/793.webp",
+      "coin":1000
+    },
+    {
+      "id":794,
+      "name_category": "dewol",
+      "title":"794",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/794.webp",
+      "coin":1000
+    },
+    {
+      "id":795,
+      "name_category": "dewol",
+      "title":"795",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/795.webp",
+      "coin":1000
+    },
+    {
+      "id":796,
+      "name_category": "dewol",
+      "title":"796",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/796.webp",
+      "coin":1000
+    },
+    {
+      "id":797,
+      "name_category": "dewol",
+      "title":"797",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/797.webp",
+      "coin":1000
+    },
+    {
+      "id":798,
+      "name_category": "dewol",
+      "title":"798",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/798.webp",
+      "coin":1000
+    },
+    {
+      "id":799,
+      "name_category": "dewol",
+      "title":"799",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/799.webp",
+      "coin":1000
+    },
+    {
+      "id":800,
+      "name_category": "dewol",
+      "title":"800",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/800.webp",
+      "coin":1000
+    },
+    {
+      "id":801,
+      "name_category": "dewol",
+      "title":"801",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/801.webp",
+      "coin":1000
+    },
+    {
+      "id":802,
+      "name_category": "dewol",
+      "title":"802",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/802.webp",
+      "coin":1000
+    },
+    {
+      "id":803,
+      "name_category": "dewol",
+      "title":"803",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/803.webp",
+      "coin":1000
+    },
+    {
+      "id":804,
+      "name_category": "dewol",
+      "title":"804",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/804.webp",
+      "coin":1000
+    },
+    {
+      "id":805,
+      "name_category": "dewol",
+      "title":"805",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/805.webp",
+      "coin":1000
+    },
+    {
+      "id":806,
+      "name_category": "dewol",
+      "title":"806",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/806.webp",
+      "coin":1000
+    },
+    {
+      "id":807,
+      "name_category": "dewol",
+      "title":"807",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/807.webp",
+      "coin":1000
+    },
+    {
+      "id":808,
+      "name_category": "dewol",
+      "title":"808",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/808.webp",
+      "coin":1000
+    },
+    {
+      "id":809,
+      "name_category": "dewol",
+      "title":"809",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/809.webp",
+      "coin":1000
+    },
+    {
+      "id":810,
+      "name_category": "dewol",
+      "title":"810",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/810.webp",
+      "coin":1000
+    },
+    {
+      "id":811,
+      "name_category": "dewol",
+      "title":"811",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/811.webp",
+      "coin":1000
+    },
+    {
+      "id":812,
+      "name_category": "dewol",
+      "title":"812",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/812.webp",
+      "coin":1000
+    },
+    {
+      "id":813,
+      "name_category": "dewol",
+      "title":"813",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/813.webp",
+      "coin":1000
+    },
+    {
+      "id":814,
+      "name_category": "dewol",
+      "title":"814",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/814.webp",
+      "coin":1000
+    },
+    {
+      "id":815,
+      "name_category": "dewol",
+      "title":"815",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/815.webp",
+      "coin":1000
+    },
+    {
+      "id":816,
+      "name_category": "dewol",
+      "title":"816",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/816.webp",
+      "coin":1000
+    },
+    {
+      "id":817,
+      "name_category": "dewol",
+      "title":"817",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/817.webp",
+      "coin":1000
+    },
+    {
+      "id":818,
+      "name_category": "dewol",
+      "title":"818",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/818.webp",
+      "coin":1000
+    },
+    {
+      "id":819,
+      "name_category": "dewol",
+      "title":"819",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/819.webp",
+      "coin":1000
+    },
+    {
+      "id":820,
+      "name_category": "dewol",
+      "title":"820",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/820.webp",
+      "coin":1000
+    },
+    {
+      "id":821,
+      "name_category": "dewol",
+      "title":"821",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/821.webp",
+      "coin":1000
+    },
+    {
+      "id":822,
+      "name_category": "dewol",
+      "title":"822",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/822.webp",
+      "coin":1000
+    },
+    {
+      "id":823,
+      "name_category": "dewol",
+      "title":"823",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/823.webp",
+      "coin":1000
+    },
+    {
+      "id":824,
+      "name_category": "dewol",
+      "title":"824",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/824.webp",
+      "coin":1000
+    },
+    {
+      "id":825,
+      "name_category": "dewol",
+      "title":"825",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/825.webp",
+      "coin":1000
+    },
+    {
+      "id":826,
+      "name_category": "dewol",
+      "title":"826",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/826.webp",
+      "coin":1000
+    },
+    {
+      "id":827,
+      "name_category": "dewol",
+      "title":"827",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/827.webp",
+      "coin":1000
+    },
+    {
+      "id":828,
+      "name_category": "dewol",
+      "title":"828",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/828.webp",
+      "coin":1000
+    },
+    {
+      "id":829,
+      "name_category": "dewol",
+      "title":"829",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/829.webp",
+      "coin":1000
+    },
+    {
+      "id":830,
+      "name_category": "dewol",
+      "title":"830",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/830.webp",
+      "coin":1000
+    },
+    {
+      "id":831,
+      "name_category": "dewol",
+      "title":"831",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/831.webp",
+      "coin":1000
+    },
+    {
+      "id":832,
+      "name_category": "dewol",
+      "title":"832",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/832.webp",
+      "coin":1000
+    },
+    {
+      "id":833,
+      "name_category": "dewol",
+      "title":"833",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/833.webp",
+      "coin":1000
+    },
+    {
+      "id":834,
+      "name_category": "dewol",
+      "title":"834",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/834.webp",
+      "coin":1000
+    },
+    {
+      "id":835,
+      "name_category": "dewol",
+      "title":"835",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/835.webp",
+      "coin":1000
+    },
+    {
+      "id":836,
+      "name_category": "dewol",
+      "title":"836",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/836.webp",
+      "coin":1000
+    },
+    {
+      "id":837,
+      "name_category": "dewol",
+      "title":"837",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/837.webp",
+      "coin":1000
+    },
+    {
+      "id":838,
+      "name_category": "dewol",
+      "title":"838",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/838.webp",
+      "coin":1000
+    },
+    {
+      "id":839,
+      "name_category": "dewol",
+      "title":"839",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/839.webp",
+      "coin":1000
+    },
+    {
+      "id":840,
+      "name_category": "dewol",
+      "title":"840",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/840.webp",
+      "coin":1000
+    },
+    {
+      "id":841,
+      "name_category": "dewol",
+      "title":"841",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/841.webp",
+      "coin":1000
+    },
+    {
+      "id":842,
+      "name_category": "dewol",
+      "title":"842",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/842.webp",
+      "coin":1000
+    },
+    {
+      "id":843,
+      "name_category": "dewol",
+      "title":"843",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/843.webp",
+      "coin":1000
+    },
+    {
+      "id":844,
+      "name_category": "dewol",
+      "title":"844",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/844.webp",
+      "coin":1000
+    },
+    {
+      "id":845,
+      "name_category": "dewol",
+      "title":"845",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/845.webp",
+      "coin":1000
+    },
+    {
+      "id":846,
+      "name_category": "dewol",
+      "title":"846",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/846.webp",
+      "coin":1000
+    },
+    {
+      "id":847,
+      "name_category": "dewol",
+      "title":"847",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/847.webp",
+      "coin":1000
+    },
+    {
+      "id":848,
+      "name_category": "dewol",
+      "title":"848",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/848.webp",
+      "coin":1000
+    },
+    {
+      "id":849,
+      "name_category": "dewol",
+      "title":"849",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/849.webp",
+      "coin":1000
+    },
+    {
+      "id":850,
+      "name_category": "dewol",
+      "title":"850",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/850.webp",
+      "coin":1000
+    },
+    {
+      "id":851,
+      "name_category": "dewol",
+      "title":"851",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/851.webp",
+      "coin":1000
+    },
+    {
+      "id":852,
+      "name_category": "dewol",
+      "title":"852",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/852.webp",
+      "coin":1000
+    },
+    {
+      "id":853,
+      "name_category": "dewol",
+      "title":"853",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/853.webp",
+      "coin":1000
+    },
+    {
+      "id":854,
+      "name_category": "dewol",
+      "title":"854",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/854.webp",
+      "coin":1000
+    },
+    {
+      "id":855,
+      "name_category": "dewol",
+      "title":"855",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/855.webp",
+      "coin":1000
+    },
+    {
+      "id":856,
+      "name_category": "dewol",
+      "title":"856",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/856.webp",
+      "coin":1000
+    },
+    {
+      "id":857,
+      "name_category": "dewol",
+      "title":"857",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/857.webp",
+      "coin":1000
+    },
+    {
+      "id":858,
+      "name_category": "dewol",
+      "title":"858",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/858.webp",
+      "coin":1000
+    },
+    {
+      "id":859,
+      "name_category": "dewol",
+      "title":"859",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/859.webp",
+      "coin":1000
+    },
+    {
+      "id":860,
+      "name_category": "dewol",
+      "title":"860",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/860.webp",
+      "coin":1000
+    },
+    {
+      "id":861,
+      "name_category": "dewol",
+      "title":"861",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/861.webp",
+      "coin":1000
+    },
+    {
+      "id":862,
+      "name_category": "dewol",
+      "title":"862",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/862.webp",
+      "coin":1000
+    },
+    {
+      "id":863,
+      "name_category": "dewol",
+      "title":"863",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/863.webp",
+      "coin":1000
+    },
+    {
+      "id":864,
+      "name_category": "dewol",
+      "title":"864",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/864.webp",
+      "coin":1000
+    },
+    {
+      "id":865,
+      "name_category": "dewol",
+      "title":"865",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/865.webp",
+      "coin":1000
+    },
+    {
+      "id":866,
+      "name_category": "dewol",
+      "title":"866",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/866.webp",
+      "coin":1000
+    },
+    {
+      "id":867,
+      "name_category": "dewol",
+      "title":"867",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/867.webp",
+      "coin":1000
+    },
+    {
+      "id":868,
+      "name_category": "dewol",
+      "title":"868",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/868.webp",
+      "coin":1000
+    },
+    {
+      "id":869,
+      "name_category": "dewol",
+      "title":"869",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/869.webp",
+      "coin":1000
+    },
+    {
+      "id":870,
+      "name_category": "dewol",
+      "title":"870",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/870.webp",
+      "coin":1000
+    },
+    {
+      "id":871,
+      "name_category": "dewol",
+      "title":"871",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/871.webp",
+      "coin":1000
+    },
+    {
+      "id":872,
+      "name_category": "dewol",
+      "title":"872",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/872.webp",
+      "coin":1000
+    },
+    {
+      "id":873,
+      "name_category": "dewol",
+      "title":"873",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/873.webp",
+      "coin":1000
+    },
+    {
+      "id":874,
+      "name_category": "dewol",
+      "title":"874",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/874.webp",
+      "coin":1000
+    },
+    {
+      "id":875,
+      "name_category": "dewol",
+      "title":"875",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/875.webp",
+      "coin":1000
+    },
+    {
+      "id":876,
+      "name_category": "dewol",
+      "title":"876",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/876.webp",
+      "coin":1000
+    },
+    {
+      "id":877,
+      "name_category": "dewol",
+      "title":"877",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/877.webp",
+      "coin":1000
+    },
+    {
+      "id":878,
+      "name_category": "dewol",
+      "title":"878",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/878.webp",
+      "coin":1000
+    },
+    {
+      "id":879,
+      "name_category": "dewol",
+      "title":"879",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/879.webp",
+      "coin":1000
+    },
+    {
+      "id":880,
+      "name_category": "dewol",
+      "title":"880",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/880.webp",
+      "coin":1000
+    },
+    {
+      "id":881,
+      "name_category": "dewol",
+      "title":"881",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/881.webp",
+      "coin":1000
+    },
+    {
+      "id":882,
+      "name_category": "dewol",
+      "title":"882",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/882.webp",
+      "coin":1000
+    },
+    {
+      "id":883,
+      "name_category": "dewol",
+      "title":"883",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/883.webp",
+      "coin":1000
+    },
+    {
+      "id":884,
+      "name_category": "dewol",
+      "title":"884",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/884.webp",
+      "coin":1000
+    },
+    {
+      "id":885,
+      "name_category": "dewol",
+      "title":"885",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/885.webp",
+      "coin":1000
+    },
+    {
+      "id":886,
+      "name_category": "dewol",
+      "title":"886",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/886.webp",
+      "coin":1000
+    },
+    {
+      "id":887,
+      "name_category": "dewol",
+      "title":"887",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/887.webp",
+      "coin":1000
+    },
+    {
+      "id":888,
+      "name_category": "dewol",
+      "title":"888",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/888.webp",
+      "coin":1000
+    },
+    {
+      "id":889,
+      "name_category": "dewol",
+      "title":"889",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/889.webp",
+      "coin":1000
+    },
+    {
+      "id":890,
+      "name_category": "dewol",
+      "title":"890",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/890.webp",
+      "coin":1000
+    },
+    {
+      "id":891,
+      "name_category": "dewol",
+      "title":"891",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/891.webp",
+      "coin":1000
+    },
+    {
+      "id":892,
+      "name_category": "dewol",
+      "title":"892",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/892.webp",
+      "coin":1000
+    },
+    {
+      "id":893,
+      "name_category": "dewol",
+      "title":"893",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/893.webp",
+      "coin":1000
+    },
+    {
+      "id":894,
+      "name_category": "dewol",
+      "title":"894",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/894.webp",
+      "coin":1000
+    },
+    {
+      "id":895,
+      "name_category": "dewol",
+      "title":"895",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/895.webp",
+      "coin":1000
+    },
+    {
+      "id":896,
+      "name_category": "dewol",
+      "title":"896",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/896.webp",
+      "coin":1000
+    },
+    {
+      "id":897,
+      "name_category": "dewol",
+      "title":"897",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/897.webp",
+      "coin":1000
+    },
+    {
+      "id":898,
+      "name_category": "dewol",
+      "title":"898",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/898.webp",
+      "coin":1000
+    },
+    {
+      "id":899,
+      "name_category": "dewol",
+      "title":"899",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/899.webp",
+      "coin":1000
+    },
+    {
+      "id":900,
+      "name_category": "dewol",
+      "title":"900",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/900.webp",
+      "coin":1000
+    },
+    {
+      "id":901,
+      "name_category": "dewol",
+      "title":"901",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/901.webp",
+      "coin":1000
+    },
+    {
+      "id":902,
+      "name_category": "dewol",
+      "title":"902",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/902.webp",
+      "coin":1000
+    },
+    {
+      "id":903,
+      "name_category": "dewol",
+      "title":"903",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/903.webp",
+      "coin":1000
+    },
+    {
+      "id":904,
+      "name_category": "dewol",
+      "title":"904",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/904.webp",
+      "coin":1000
+    },
+    {
+      "id":905,
+      "name_category": "dewol",
+      "title":"905",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/905.webp",
+      "coin":1000
+    },
+    {
+      "id":906,
+      "name_category": "dewol",
+      "title":"906",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/906.webp",
+      "coin":1000
+    },
+    {
+      "id":907,
+      "name_category": "dewol",
+      "title":"907",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/907.webp",
+      "coin":1000
+    },
+    {
+      "id":908,
+      "name_category": "dewol",
+      "title":"908",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/908.webp",
+      "coin":1000
+    },
+    {
+      "id":909,
+      "name_category": "dewol",
+      "title":"909",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/909.webp",
+      "coin":1000
+    },
+    {
+      "id":910,
+      "name_category": "dewol",
+      "title":"910",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/910.webp",
+      "coin":1000
+    },
+    {
+      "id":911,
+      "name_category": "dewol",
+      "title":"911",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/911.webp",
+      "coin":1000
+    },
+    {
+      "id":912,
+      "name_category": "dewol",
+      "title":"912",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/912.webp",
+      "coin":1000
+    },
+    {
+      "id":913,
+      "name_category": "dewol",
+      "title":"913",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/913.webp",
+      "coin":1000
+    },
+    {
+      "id":914,
+      "name_category": "dewol",
+      "title":"914",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/914.webp",
+      "coin":1000
+    },
+    {
+      "id":915,
+      "name_category": "dewol",
+      "title":"915",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/915.webp",
+      "coin":1000
+    },
+    {
+      "id":916,
+      "name_category": "dewol",
+      "title":"916",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/916.webp",
+      "coin":1000
+    },
+    {
+      "id":917,
+      "name_category": "dewol",
+      "title":"917",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/917.webp",
+      "coin":1000
+    },
+    {
+      "id":918,
+      "name_category": "dewol",
+      "title":"918",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/918.webp",
+      "coin":1000
+    },
+    {
+      "id":919,
+      "name_category": "dewol",
+      "title":"919",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/919.webp",
+      "coin":1000
+    },
+    {
+      "id":920,
+      "name_category": "dewol",
+      "title":"920",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/920.webp",
+      "coin":1000
+    },
+    {
+      "id":921,
+      "name_category": "dewol",
+      "title":"921",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/921.webp",
+      "coin":1000
+    },
+    {
+      "id":922,
+      "name_category": "dewol",
+      "title":"922",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/922.webp",
+      "coin":1000
+    },
+    {
+      "id":923,
+      "name_category": "dewol",
+      "title":"923",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/923.webp",
+      "coin":1000
+    },
+    {
+      "id":924,
+      "name_category": "dewol",
+      "title":"924",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/924.webp",
+      "coin":1000
+    },
+    {
+      "id":925,
+      "name_category": "dewol",
+      "title":"925",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/925.webp",
+      "coin":1000
+    },
+    {
+      "id":926,
+      "name_category": "dewol",
+      "title":"926",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/926.webp",
+      "coin":1000
+    },
+    {
+      "id":927,
+      "name_category": "dewol",
+      "title":"927",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/927.webp",
+      "coin":1000
+    },
+    {
+      "id":928,
+      "name_category": "dewol",
+      "title":"928",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/928.webp",
+      "coin":1000
+    },
+    {
+      "id":929,
+      "name_category": "dewol",
+      "title":"929",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/929.webp",
+      "coin":1000
+    },
+    {
+      "id":930,
+      "name_category": "dewol",
+      "title":"930",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/930.webp",
+      "coin":1000
+    },
+    {
+      "id":931,
+      "name_category": "dewol",
+      "title":"931",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/931.webp",
+      "coin":1000
+    },
+    {
+      "id":932,
+      "name_category": "dewol",
+      "title":"932",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/932.webp",
+      "coin":1000
+    },
+    {
+      "id":933,
+      "name_category": "dewol",
+      "title":"933",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/933.webp",
+      "coin":1000
+    },
+    {
+      "id":934,
+      "name_category": "dewol",
+      "title":"934",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/934.webp",
+      "coin":1000
+    },
+    {
+      "id":935,
+      "name_category": "dewol",
+      "title":"935",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/935.webp",
+      "coin":1000
+    },
+    {
+      "id":936,
+      "name_category": "dewol",
+      "title":"936",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/936.webp",
+      "coin":1000
+    },
+    {
+      "id":937,
+      "name_category": "dewol",
+      "title":"937",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/937.webp",
+      "coin":1000
+    },
+    {
+      "id":938,
+      "name_category": "dewol",
+      "title":"938",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/938.webp",
+      "coin":1000
+    },
+    {
+      "id":939,
+      "name_category": "dewol",
+      "title":"939",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/939.webp",
+      "coin":1000
+    },
+    {
+      "id":940,
+      "name_category": "dewol",
+      "title":"940",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/940.webp",
+      "coin":1000
+    },
+    {
+      "id":941,
+      "name_category": "dewol",
+      "title":"941",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/941.webp",
+      "coin":1000
+    },
+    {
+      "id":942,
+      "name_category": "dewol",
+      "title":"942",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/942.webp",
+      "coin":1000
+    },
+    {
+      "id":943,
+      "name_category": "dewol",
+      "title":"943",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/943.webp",
+      "coin":1000
+    },
+    {
+      "id":944,
+      "name_category": "dewol",
+      "title":"944",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/944.webp",
+      "coin":1000
+    },
+    {
+      "id":945,
+      "name_category": "dewol",
+      "title":"945",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/945.webp",
+      "coin":1000
+    },
+    {
+      "id":946,
+      "name_category": "dewol",
+      "title":"946",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/946.webp",
+      "coin":1000
+    },
+    {
+      "id":947,
+      "name_category": "dewol",
+      "title":"947",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/947.webp",
+      "coin":1000
+    },
+    {
+      "id":948,
+      "name_category": "dewol",
+      "title":"948",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/948.webp",
+      "coin":1000
+    },
+    {
+      "id":949,
+      "name_category": "dewol",
+      "title":"949",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/949.webp",
+      "coin":1000
+    },
+    {
+      "id":950,
+      "name_category": "dewol",
+      "title":"950",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/950.webp",
+      "coin":1000
+    },
+    {
+      "id":951,
+      "name_category": "dewol",
+      "title":"951",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/951.webp",
+      "coin":1000
+    },
+    {
+      "id":952,
+      "name_category": "dewol",
+      "title":"952",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/952.webp",
+      "coin":1000
+    },
+    {
+      "id":953,
+      "name_category": "dewol",
+      "title":"953",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/953.webp",
+      "coin":1000
+    },
+    {
+      "id":954,
+      "name_category": "dewol",
+      "title":"954",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/954.webp",
+      "coin":1000
+    },
+    {
+      "id":955,
+      "name_category": "dewol",
+      "title":"955",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/955.webp",
+      "coin":1000
+    },
+    {
+      "id":956,
+      "name_category": "dewol",
+      "title":"956",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/956.webp",
+      "coin":1000
+    },
+    {
+      "id":957,
+      "name_category": "dewol",
+      "title":"957",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/957.webp",
+      "coin":1000
+    },
+    {
+      "id":958,
+      "name_category": "dewol",
+      "title":"958",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/958.webp",
+      "coin":1000
+    },
+    {
+      "id":959,
+      "name_category": "dewol",
+      "title":"959",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/959.webp",
+      "coin":1000
+    },
+    {
+      "id":960,
+      "name_category": "dewol",
+      "title":"960",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/960.webp",
+      "coin":1000
+    },
+    {
+      "id":961,
+      "name_category": "dewol",
+      "title":"961",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/961.webp",
+      "coin":1000
+    },
+    {
+      "id":962,
+      "name_category": "dewol",
+      "title":"962",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/962.webp",
+      "coin":1000
+    },
+    {
+      "id":963,
+      "name_category": "dewol",
+      "title":"963",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/963.webp",
+      "coin":1000
+    },
+    {
+      "id":964,
+      "name_category": "dewol",
+      "title":"964",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/964.webp",
+      "coin":1000
+    },
+    {
+      "id":965,
+      "name_category": "dewol",
+      "title":"965",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/965.webp",
+      "coin":1000
+    },
+    {
+      "id":966,
+      "name_category": "dewol",
+      "title":"966",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/966.webp",
+      "coin":1000
+    },
+    {
+      "id":967,
+      "name_category": "dewol",
+      "title":"967",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/967.webp",
+      "coin":1000
+    },
+    {
+      "id":968,
+      "name_category": "dewol",
+      "title":"968",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/968.webp",
+      "coin":1000
+    },
+    {
+      "id":969,
+      "name_category": "dewol",
+      "title":"969",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/969.webp",
+      "coin":1000
+    },
+    {
+      "id":970,
+      "name_category": "dewol",
+      "title":"970",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/970.webp",
+      "coin":1000
+    },
+    {
+      "id":971,
+      "name_category": "dewol",
+      "title":"971",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/971.webp",
+      "coin":1000
+    },
+    {
+      "id":972,
+      "name_category": "dewol",
+      "title":"972",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/972.webp",
+      "coin":1000
+    },
+    {
+      "id":973,
+      "name_category": "dewol",
+      "title":"973",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/973.webp",
+      "coin":1000
+    },
+    {
+      "id":974,
+      "name_category": "dewol",
+      "title":"974",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/974.webp",
+      "coin":1000
+    },
+    {
+      "id":975,
+      "name_category": "dewol",
+      "title":"975",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/975.webp",
+      "coin":1000
+    },
+    {
+      "id":976,
+      "name_category": "dewol",
+      "title":"976",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/976.webp",
+      "coin":1000
+    },
+    {
+      "id":977,
+      "name_category": "dewol",
+      "title":"977",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/977.webp",
+      "coin":1000
+    },
+    {
+      "id":978,
+      "name_category": "dewol",
+      "title":"978",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/978.webp",
+      "coin":1000
+    },
+    {
+      "id":979,
+      "name_category": "dewol",
+      "title":"979",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/979.webp",
+      "coin":1000
+    },
+    {
+      "id":980,
+      "name_category": "dewol",
+      "title":"980",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/980.webp",
+      "coin":1000
+    },
+    {
+      "id":981,
+      "name_category": "dewol",
+      "title":"981",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/981.webp",
+      "coin":1000
+    },
+    {
+      "id":982,
+      "name_category": "dewol",
+      "title":"982",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/982.webp",
+      "coin":1000
+    },
+    {
+      "id":983,
+      "name_category": "dewol",
+      "title":"983",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/983.webp",
+      "coin":1000
+    },
+    {
+      "id":984,
+      "name_category": "dewol",
+      "title":"984",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/984.webp",
+      "coin":1000
+    },
+    {
+      "id":985,
+      "name_category": "dewol",
+      "title":"985",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/985.webp",
+      "coin":1000
+    },
+    {
+      "id":986,
+      "name_category": "dewol",
+      "title":"986",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/986.webp",
+      "coin":1000
+    },
+    {
+      "id":987,
+      "name_category": "dewol",
+      "title":"987",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/987.webp",
+      "coin":1000
+    },
+    {
+      "id":988,
+      "name_category": "dewol",
+      "title":"988",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/988.webp",
+      "coin":1000
+    },
+    {
+      "id":989,
+      "name_category": "dewol",
+      "title":"989",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/989.webp",
+      "coin":1000
+    },
+    {
+      "id":990,
+      "name_category": "dewol",
+      "title":"990",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/990.webp",
+      "coin":1000
+    },
+    {
+      "id":991,
+      "name_category": "dewol",
+      "title":"991",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/991.webp",
+      "coin":1000
+    },
+    {
+      "id":992,
+      "name_category": "dewol",
+      "title":"992",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/992.webp",
+      "coin":1000
+    },
+    {
+      "id":993,
+      "name_category": "dewol",
+      "title":"993",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/993.webp",
+      "coin":1000
+    },
+    {
+      "id":994,
+      "name_category": "dewol",
+      "title":"994",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/994.webp",
+      "coin":1000
+    },
+    {
+      "id":995,
+      "name_category": "dewol",
+      "title":"995",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/995.webp",
+      "coin":1000
+    },
+    {
+      "id":996,
+      "name_category": "dewol",
+      "title":"996",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/996.webp",
+      "coin":1000
+    },
+    {
+      "id":997,
+      "name_category": "dewol",
+      "title":"997",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/997.webp",
+      "coin":1000
+    },
+    {
+      "id":998,
+      "name_category": "dewol",
+      "title":"998",
+      "image":"https://cdn.statically.io/gh/dewol0/OutfitIdeasGachaLife/main/998.webp",
+      "coin":1000
+    }
+  ]
+}
